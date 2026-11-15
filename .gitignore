@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# generated
+build/
+dist/
+
+# plan workspaces
+.superpowers/
+
+# python
+.venv/
+__pycache__/
+*.pyc

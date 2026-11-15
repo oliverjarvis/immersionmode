@@ -1,0 +1,4490 @@
+file	line	kind	speaker	gender	age
+0	0	dialogue	receptionist		adult
+0	1	dialogue	receptionist		adult
+0	2	dialogue	receptionist		adult
+0	3	dialogue	receptionist		adult
+0	4	dialogue	receptionist		adult
+0	5	dialogue	receptionist		adult
+0	6	dialogue	receptionist		adult
+0	7	dialogue	receptionist		adult
+0	8	dialogue	receptionist		adult
+0	9	dialogue	receptionist		adult
+0	11	dialogue	receptionist		adult
+0	12	dialogue	receptionist		adult
+0	13	dialogue	receptionist		adult
+0	14	dialogue	receptionist		adult
+0	16	dialogue	receptionist		adult
+0	18	dialogue	receptionist		adult
+0	19	dialogue	receptionist		adult
+0	23	narration			
+0	27	dialogue	receptionist		adult
+0	28	dialogue	receptionist		adult
+0	29	dialogue	receptionist		adult
+0	30	dialogue	receptionist		adult
+0	31	dialogue	receptionist		adult
+0	32	narration			
+0	33	narration			
+0	34	narration			
+0	35	narration			
+0	36	dialogue	receptionist		adult
+0	39	choice			
+0	43	choice			
+0	48	choice			
+0	49	choice			
+0	56	choice			
+0	57	choice			
+0	61	choice			
+0	64	help			
+0	65	help			
+0	66	help			
+0	67	help			
+0	68	help			
+0	69	help			
+0	70	help			
+0	71	help			
+0	72	help			
+0	73	help			
+0	76	dialogue	receptionist		adult
+0	77	dialogue	receptionist		adult
+0	78	dialogue	receptionist		adult
+0	79	dialogue	receptionist		adult
+0	80	help			
+0	81	dialogue	receptionist		adult
+0	82	dialogue	receptionist		adult
+0	83	dialogue	trainer	male	young adult
+0	86	dialogue	receptionist		adult
+0	87	dialogue	receptionist		adult
+0	88	dialogue	receptionist		adult
+0	89	dialogue	receptionist		adult
+0	90	help			
+0	91	help			
+0	92	help			
+0	93	help			
+0	94	help			
+0	95	help			
+0	96	help			
+0	97	help			
+0	98	help			
+0	99	help			
+0	100	dialogue	receptionist		adult
+0	101	dialogue	receptionist		adult
+0	103	narration			
+0	104	narration			
+0	105	help			
+0	106	help			
+0	107	dialogue	receptionist		adult
+0	108	dialogue	receptionist		adult
+0	109	dialogue	receptionist		adult
+0	110	narration			
+0	111	narration			
+0	112	narration			
+0	113	narration			
+0	114	narration			
+0	115	narration			
+0	116	narration			
+0	117	narration			
+0	118	narration			
+0	119	narration			
+0	120	narration			
+0	121	narration			
+0	131	dialogue	receptionist		adult
+1	9	dialogue	receptionist		adult
+1	11	dialogue	receptionist		adult
+1	13	dialogue	receptionist		adult
+1	14	dialogue	receptionist		adult
+1	18	dialogue	receptionist		adult
+1	19	dialogue	receptionist		adult
+1	20	dialogue	receptionist		adult
+1	21	dialogue	receptionist		adult
+1	22	dialogue	receptionist		adult
+1	23	dialogue	receptionist		adult
+1	28	dialogue	receptionist		adult
+1	29	dialogue	receptionist		adult
+1	30	dialogue	receptionist		adult
+1	31	dialogue	receptionist		adult
+1	32	dialogue	receptionist		adult
+1	33	dialogue	receptionist		adult
+1	35	dialogue	worker	male	adult
+1	36	dialogue	worker	male	adult
+1	59	name			
+1	60	name			
+1	61	name			
+1	62	name			
+1	83	name			
+1	84	name			
+1	85	name			
+1	86	name			
+1	87	name			
+1	88	name			
+1	89	name			
+1	90	name			
+1	91	name			
+1	92	name			
+1	93	name			
+1	94	name			
+1	95	name			
+1	96	name			
+1	97	name			
+1	98	name			
+1	99	name			
+1	100	name			
+1	101	name			
+1	102	name			
+1	103	name			
+1	104	name			
+1	105	name			
+1	106	name			
+1	107	name			
+1	108	name			
+1	109	name			
+1	110	name			
+1	111	name			
+1	112	name			
+1	113	name			
+1	114	name			
+1	115	name			
+1	116	name			
+1	117	name			
+1	118	name			
+1	119	name			
+1	120	name			
+1	121	name			
+1	122	name			
+1	123	name			
+1	124	name			
+2	0	dialogue	receptionist		adult
+2	1	dialogue	receptionist		adult
+2	2	dialogue	receptionist		adult
+2	3	dialogue	receptionist		adult
+2	4	dialogue	receptionist		adult
+2	5	dialogue	receptionist		adult
+2	6	dialogue	receptionist		adult
+2	7	dialogue	receptionist		adult
+2	9	dialogue	receptionist		adult
+2	10	dialogue	receptionist		adult
+2	11	dialogue	receptionist		adult
+2	12	dialogue	receptionist		adult
+2	13	dialogue	receptionist		adult
+2	14	dialogue	receptionist		adult
+2	15	dialogue	receptionist		adult
+2	16	dialogue	receptionist		adult
+2	17	dialogue	receptionist		adult
+2	19	dialogue	receptionist		adult
+3	3	narration			
+3	26	narration			
+3	29	narration			
+5	1	sign			
+6	0	dialogue	café worker	male	adult
+6	3	name			
+6	5	name			
+6	6	name			
+6	7	name			
+6	11	dialogue	café worker	male	adult
+6	12	dialogue	café worker	male	adult
+6	13	dialogue	café worker	male	adult
+6	14	dialogue	café worker	male	adult
+6	15	dialogue	café worker	male	adult
+6	18	dialogue	café worker	male	adult
+6	19	dialogue	café worker	male	adult
+6	20	dialogue	café worker	male	adult
+6	21	dialogue	café worker	male	adult
+6	22	dialogue	café worker	male	adult
+6	23	dialogue	café worker	male	adult
+6	24	dialogue	café worker	male	adult
+6	25	dialogue	café worker	male	adult
+6	26	dialogue	café worker	male	adult
+6	27	dialogue	café worker	male	adult
+6	28	dialogue	café worker	male	adult
+6	29	dialogue	café worker	male	adult
+6	30	dialogue	café worker	male	adult
+6	31	dialogue	café worker	male	adult
+6	32	dialogue	café worker	male	adult
+6	33	dialogue	café worker	male	adult
+6	34	dialogue	café worker	male	adult
+6	35	dialogue	café worker	male	adult
+6	36	dialogue	café worker	male	adult
+6	37	dialogue	café worker	male	adult
+6	38	dialogue	café worker	male	adult
+6	39	dialogue	café worker	male	adult
+6	40	dialogue	café worker	male	adult
+6	41	dialogue	café worker	male	adult
+6	42	dialogue	café worker	male	adult
+6	43	dialogue	café worker	male	adult
+6	44	dialogue	café worker	male	adult
+6	48	dialogue	café worker	male	adult
+6	49	dialogue	café worker	male	adult
+6	50	dialogue	café worker	male	adult
+6	51	dialogue	café worker	male	adult
+6	52	dialogue	café worker	male	adult
+6	53	dialogue	café worker	male	adult
+6	54	dialogue	café worker	male	adult
+6	55	dialogue	café worker	male	adult
+6	56	dialogue	café worker	male	adult
+6	57	dialogue	café worker	male	adult
+6	58	dialogue	café worker	male	adult
+6	59	dialogue	café worker	male	adult
+6	101	dialogue	café worker	male	adult
+7	4	narration			
+7	5	narration			
+7	6	narration			
+7	7	narration			
+9	5	choice			
+9	6	choice			
+9	7	choice			
+9	8	choice			
+9	9	choice			
+9	10	choice			
+9	11	choice			
+9	12	choice			
+9	13	choice			
+9	14	choice			
+10	0	choice			
+10	1	choice			
+10	2	name			
+10	8	narration			
+10	9	narration			
+11	2	name			
+11	3	name			
+11	4	name			
+11	5	name			
+11	6	name			
+11	7	name			
+12	8	narration			
+13	44	name			
+13	45	name			
+13	48	name			
+13	49	name			
+13	50	name			
+13	52	name			
+13	54	name			
+13	55	name			
+13	63	name			
+13	64	name			
+13	66	name			
+13	67	name			
+13	68	name			
+14	0	name			
+14	1	name			
+14	2	name			
+14	3	name			
+14	4	name			
+14	5	name			
+14	6	name			
+14	7	name			
+14	8	name			
+14	9	name			
+14	10	name			
+14	11	name			
+14	12	name			
+14	13	name			
+14	14	dialogue	trader girl	female	teen
+14	15	dialogue	trader girl	female	teen
+14	16	dialogue	trader girl	female	teen
+14	17	dialogue	trader girl	female	teen
+14	18	dialogue	trader girl	female	teen
+14	19	dialogue	trader girl	female	teen
+14	20	dialogue	trader girl	female	teen
+14	21	dialogue	trader girl	female	teen
+14	22	dialogue	trader girl	female	teen
+14	23	dialogue	trader girl	female	teen
+14	24	dialogue	trader girl	female	teen
+14	25	dialogue	trader girl	female	teen
+14	26	dialogue	trader boy	male	teen
+14	27	dialogue	trader boy	male	teen
+14	28	dialogue	trader boy	male	teen
+14	29	dialogue	trader boy	male	teen
+14	30	dialogue	trader boy	male	teen
+14	31	dialogue	trader boy	male	teen
+14	32	dialogue	old man	male	elderly
+14	33	dialogue	old man	male	elderly
+14	34	dialogue	old man	male	elderly
+14	35	dialogue	old man	male	elderly
+14	36	dialogue	old man	male	elderly
+14	37	dialogue	trader man	male	adult
+14	38	dialogue	trader woman	female	teen
+14	39	dialogue	trader woman	female	teen
+14	40	dialogue	trader woman	female	teen
+14	41	dialogue	trader woman	female	teen
+14	42	dialogue	trader woman	female	teen
+14	43	dialogue	trader woman	female	teen
+14	44	dialogue	trader boy	male	teen
+14	45	dialogue	trader boy	male	teen
+14	46	dialogue	trader boy	male	teen
+14	47	dialogue	trader boy	male	teen
+14	48	dialogue	trader boy	male	teen
+14	49	dialogue	trader man	male	adult
+14	50	dialogue	trader woman	female	adult
+14	51	dialogue	trader woman	female	adult
+14	52	dialogue	trader woman	female	adult
+14	53	dialogue	trader woman	female	adult
+14	54	dialogue	trader woman	female	adult
+14	55	dialogue	trader		adult
+14	56	dialogue	trader boy	male	teen
+14	57	dialogue	trader woman	female	teen
+14	58	dialogue	trader boy	male	teen
+14	59	dialogue	trader boy	male	teen
+14	60	dialogue	trader boy	male	teen
+14	61	dialogue	trader boy	male	teen
+15	0	narration			
+18	0	narration			
+18	1	narration			
+18	2	narration			
+18	3	narration			
+18	4	narration			
+18	5	narration			
+18	9	narration			
+18	14	narration			
+18	15	narration			
+18	17	narration			
+18	18	narration			
+18	19	narration			
+18	20	narration			
+18	21	narration			
+18	22	narration			
+18	23	narration			
+18	24	narration			
+19	24	dialogue	fossil girl	female	teen
+19	25	dialogue	fossil girl	female	teen
+19	26	dialogue	fossil girl	female	teen
+19	27	dialogue	fossil girl	female	teen
+19	28	dialogue	fossil fan	male	adult
+19	29	dialogue	fossil fan	male	adult
+19	30	dialogue	fossil fan	male	adult
+19	31	dialogue	fossil fan	male	adult
+20	0	dialogue	Lass	female	teen
+20	1	dialogue	Lass	female	teen
+20	5	dialogue	Lass	female	teen
+20	8	dialogue	Lass	female	teen
+20	9	dialogue	Lass	female	teen
+20	10	dialogue	Lass	female	teen
+20	11	dialogue	Lass	female	teen
+22	15	narration			
+22	16	narration			
+24	1	narration			
+24	8	narration			
+24	9	narration			
+24	10	narration			
+24	11	narration			
+24	17	dialogue	Ultra Beast		
+24	18	dialogue	Ultra Beast		
+24	19	dialogue	Ultra Beast		
+24	20	dialogue	Ultra Beast		
+24	21	dialogue	Ultra Beast		
+24	22	dialogue	Ultra Beast		
+24	23	dialogue	Ultra Beast		
+24	24	dialogue	Ultra Beast		
+24	25	dialogue	Ultra Beast		
+24	26	dialogue	Ultra Beast		
+24	27	dialogue	Ultra Beast		
+24	28	dialogue	Ultra Beast		
+24	29	dialogue	Ultra Beast		
+24	30	dialogue	Ultra Beast		
+24	31	dialogue	Ultra Beast		
+24	32	dialogue	Ultra Beast		
+24	33	dialogue	Ultra Beast		
+24	34	dialogue	Ultra Beast		
+24	35	dialogue	Ultra Beast		
+24	36	dialogue	Ultra Beast		
+24	37	dialogue	Ultra Beast		
+24	38	dialogue	Ultra Beast		
+24	39	dialogue	Ultra Beast		
+24	40	dialogue	Ultra Beast		
+24	41	dialogue	Ultra Beast		
+24	42	dialogue	Ultra Beast		
+24	43	dialogue	Ultra Beast		
+24	44	dialogue	Ultra Beast		
+24	45	dialogue	Ultra Beast		
+24	46	dialogue	Ultra Beast		
+24	47	dialogue	Ultra Beast		
+24	48	dialogue	Ultra Beast		
+24	49	dialogue	Ultra Beast		
+24	50	dialogue	Ultra Beast		
+24	51	dialogue	Ultra Beast		
+24	52	dialogue	Ultra Beast		
+24	53	dialogue	Ultra Beast		
+27	4	dialogue	Meowth		
+28	0	dialogue	Meowth		
+28	1	dialogue	Meowth		
+29	14	dialogue	Meowth		
+30	7	dialogue	Tauros		
+36	6	dialogue	Meowth		
+37	1	dialogue	Pokémon		
+37	2	dialogue	Pokémon		
+37	3	dialogue	Pokémon		
+37	4	dialogue	Pokémon		
+37	5	dialogue	Pokémon		
+37	6	dialogue	Pokémon		
+37	7	dialogue	Pokémon		
+37	8	dialogue	Pokémon		
+38	12	dialogue	Rowlet		
+38	14	dialogue	Litten		
+38	16	dialogue	Popplio		
+39	4	dialogue	Rowlet		
+39	5	dialogue	Litten		
+39	6	dialogue	Popplio		
+40	12	dialogue	Professor Kukui	male	adult
+40	15	dialogue	Dulse		adult
+40	16	dialogue	Pokémon		
+40	18	dialogue	girl	female	child
+41	0	dialogue	Hau	male	teen
+41	4	dialogue	Rowlet		
+41	5	dialogue	Rowlet		
+41	6	dialogue	Pokémon		
+41	7	dialogue	Litten		
+41	8	dialogue	Litten		
+41	9	dialogue	Pokémon		
+41	10	dialogue	Popplio		
+41	11	dialogue	Popplio		
+41	12	dialogue	Popplio		
+41	17	dialogue	Rowlet		
+41	18	dialogue	Litten		
+41	19	dialogue	Popplio		
+41	21	dialogue	Rowlet		
+41	22	dialogue	Litten		
+41	23	dialogue	Popplio		
+45	16	dialogue	Pokémon		
+48	0	dialogue	Pokémon		
+48	4	dialogue	Pokémon		
+48	6	dialogue	Pokémon		
+48	14	dialogue	Pokémon		
+50	0	dialogue	villager		adult
+50	1	dialogue	villager		adult
+50	2	dialogue	villager		adult
+51	1	choice			
+51	2	choice			
+51	3	choice			
+51	7	narration			
+51	11	narration			
+51	12	narration			
+51	13	narration			
+51	14	dialogue	Rowlet		
+51	15	dialogue	Litten		
+51	16	dialogue	Popplio		
+51	17	dialogue	Rowlet		
+51	18	dialogue	Litten		
+51	19	dialogue	Popplio		
+51	35	narration			
+51	36	narration			
+51	37	narration			
+51	47	narration			
+52	1	dialogue	Pokémon		
+53	10	dialogue	Hau	male	teen
+53	14	dialogue	player		
+53	15	dialogue	player		
+53	20	help			
+53	21	dialogue	Professor Kukui	male	adult
+53	22	dialogue	villager		adult
+53	23	dialogue	villager	female	adult
+53	24	dialogue	villager	female	adult
+53	25	dialogue	villager		adult
+53	26	dialogue	villager		adult
+53	27	dialogue	villager		adult
+53	28	dialogue	villager		adult
+53	29	dialogue	spectator		
+53	30	dialogue	Pokémon		
+53	31	dialogue	Pokémon		
+54	3	dialogue	Rowlet		
+54	4	dialogue	Rowlet		
+54	5	dialogue	Pokémon		
+54	6	dialogue	Litten		
+54	7	dialogue	Litten		
+54	8	dialogue	Pokémon		
+54	9	dialogue	Popplio		
+54	10	dialogue	Popplio		
+54	11	dialogue	Popplio		
+54	17	dialogue	Litten		
+54	18	dialogue	Rowlet		
+54	19	dialogue	Litten		
+54	20	dialogue	Popplio		
+55	12	dialogue	Meowth		
+55	13	dialogue	Meowth		
+56	12	dialogue	Tauros		
+57	2	dialogue	player		
+57	3	dialogue	player		
+57	23	dialogue	Pokémon		
+61	0	dialogue	Ultra Recon Squad	male	adult
+61	1	dialogue	Ultra Recon Squad	female	young adult
+61	2	dialogue	Ultra Recon Squad	male	adult
+61	3	dialogue	Ultra Recon Squad	male	adult
+61	4	dialogue	Ultra Recon Squad	female	young adult
+61	5	dialogue	Ultra Recon Squad	male	adult
+61	6	dialogue	Ultra Recon Squad	female	adult
+61	7	dialogue	Captain	male	adult
+61	8	dialogue	Captain	male	adult
+61	9	dialogue	Ultra Recon Squad	female	adult
+61	10	dialogue	Captain	male	adult
+61	11	dialogue	Ultra Recon Squad	female	young adult
+63	2	dialogue	Rowlet		
+63	3	dialogue	Litten		
+63	4	dialogue	Popplio		
+63	8	dialogue	Pokémon		
+64	7	dialogue	spectator		
+64	8	dialogue	spectator		older adult
+64	12	dialogue	spectator		
+64	13	dialogue	spectator		
+64	17	dialogue	Tapu Koko		
+66	0	dialogue	Ultra Recon Squad	male	adult
+66	1	dialogue	Ultra Recon Squad	female	young adult
+66	2	dialogue	Ultra Recon Squad	male	adult
+66	3	dialogue	Ultra Recon Squad	male	adult
+66	4	dialogue	Ultra Recon Squad	female	young adult
+66	5	dialogue	Ultra Recon Squad	female	adult
+66	6	dialogue	Captain	male	adult
+66	7	dialogue	Ultra Recon Squad	male	adult
+66	8	dialogue	Ultra Recon Squad	female	adult
+66	9	dialogue	Captain	male	adult
+66	11	dialogue	Pokémon		
+68	1	dialogue	Meowth		
+69	5	dialogue	Meowth		
+73	15	dialogue	Rotom		
+73	17	dialogue	Rotom		
+73	19	dialogue	Rotom		
+77	8	dialogue	Pokémon		
+78	5	dialogue	Tauros		
+80	0	dialogue	girl	female	child
+80	4	dialogue	Youngster	male	teen
+80	5	dialogue	Youngster	male	teen
+84	0	dialogue	Tauros		
+84	8	dialogue	Tauros		
+85	0	dialogue	announcer		adult
+89	1	dialogue	staff member	female	adult
+89	5	dialogue	Lillie	female	teen
+89	8	dialogue	Lillie	female	teen
+91	0	dialogue	man	male	young adult
+91	1	dialogue	man	male	young adult
+91	2	dialogue	man	male	young adult
+91	3	dialogue	man	male	young adult
+91	4	dialogue	man		
+91	5	dialogue	man		
+91	6	dialogue	man		
+93	0	dialogue	Marina resident		adult
+93	1	dialogue	Marina resident		adult
+93	2	dialogue	Marina resident		adult
+93	3	dialogue	Marina resident		adult
+94	0	dialogue	Team Skull Grunt	male	young adult
+94	1	dialogue	Team Skull Grunt	male	young adult
+94	4	dialogue	Team Skull Grunt	male	young adult
+94	5	dialogue	Team Skull Grunt	male	young adult
+94	11	dialogue	Team Skull Grunt	male	young adult
+94	12	dialogue	Team Skull Grunt	male	young adult
+96	3	dialogue	Cosmog		
+96	6	dialogue	Cosmog		
+97	3	dialogue	Team Skull Grunt	male	young adult
+97	4	dialogue	Team Skull Grunt	male	young adult
+97	6	dialogue	Team Skull Grunt	male	young adult
+97	7	dialogue	Team Skull Grunt	male	young adult
+97	11	dialogue	Team Skull Grunt	male	young adult
+97	12	dialogue	Team Skull Grunt	male	young adult
+97	13	dialogue	Team Skull Grunt	male	young adult
+98	0	dialogue	Tauros		
+98	9	dialogue	Tauros		
+99	0	dialogue	Crabrawler		
+102	2	dialogue	Team Skull Grunt	male	young adult
+102	4	dialogue	Team Skull Grunt	male	young adult
+102	7	dialogue	Team Skull Grunt	male	young adult
+102	8	dialogue	Team Skull Grunt	male	young adult
+102	10	dialogue	Team Skull Grunt	male	young adult
+102	12	dialogue	Team Skull Grunt	male	young adult
+102	13	dialogue	Team Skull Grunt	male	young adult
+103	8	dialogue	Soliera	female	adult
+104	0	dialogue	Soliera	female	adult
+104	1	dialogue	Phyco	male	older adult
+104	2	dialogue	Dulse	male	adult
+104	7	dialogue	Phyco	male	older adult
+104	8	dialogue	Soliera	female	adult
+104	9	dialogue	Phyco	male	older adult
+106	0	dialogue	old man	male	older adult
+106	1	dialogue	old man	male	older adult
+106	2	dialogue	old man	male	older adult
+108	5	dialogue	Rotom Pokédex	male	
+110	12	narration			
+111	0	dialogue	Trial Guide	male	adult
+111	1	dialogue	Trial Guide	male	adult
+111	3	dialogue	Trial Guide	male	adult
+111	4	dialogue	Trial Guide	male	adult
+112	0	dialogue	Team Skull Grunt	male	young adult
+112	5	dialogue	Team Skull Grunt	male	young adult
+112	6	dialogue	Team Skull Grunt	male	young adult
+112	7	dialogue	Team Skull Grunt	male	young adult
+112	8	dialogue	Team Skull Grunt	male	young adult
+112	9	dialogue	Team Skull Grunt	male	young adult
+112	10	dialogue	Team Skull Grunt	male	young adult
+112	11	dialogue	Team Skull Grunt	male	young adult
+112	12	dialogue	Team Skull Grunt	male	young adult
+112	13	dialogue	Team Skull Grunt	male	young adult
+112	14	dialogue	Team Skull Grunt	male	young adult
+112	15	dialogue	Team Skull Grunt	male	young adult
+112	16	dialogue	Team Skull Grunt	male	young adult
+112	18	dialogue	Team Skull Grunt	male	young adult
+112	19	dialogue	Team Skull Grunt	male	young adult
+112	20	dialogue	Team Skull Grunt	male	young adult
+113	7	dialogue	Pokémon		
+113	8	dialogue	Pokémon		
+113	9	dialogue	Pokémon		
+113	10	dialogue	Pokémon		
+116	4	narration			
+118	0	narration			
+118	1	narration			
+122	6	dialogue	Cosmog		
+122	8	dialogue	Cosmog		
+122	12	dialogue	Cosmog		
+123	0	dialogue	Cosmog		
+123	14	dialogue	Cosmog		
+124	0	help			
+124	1	help			
+124	2	help			
+124	3	help			
+124	4	help			
+126	2	dialogue	Cosmog		
+128	0	dialogue	Tauros		
+128	3	dialogue	Tauros		
+130	7	dialogue	Cosmog		
+130	15	choice			
+130	16	choice			
+130	21	choice			
+130	22	choice			
+130	25	dialogue	Cosmog		
+130	27	dialogue	Cosmog		
+131	0	dialogue	Photo Club photographer		adult
+131	1	dialogue	Photo Club photographer		adult
+131	2	dialogue	Photo Club photographer		adult
+131	3	dialogue	Photo Club photographer		adult
+131	4	dialogue	Photo Club photographer		adult
+131	5	dialogue	Photo Club photographer		adult
+131	6	dialogue	Photo Club photographer		adult
+131	8	help			
+131	9	help			
+131	10	help			
+131	11	help			
+131	12	help			
+131	13	help			
+131	14	help			
+131	15	help			
+131	16	help			
+131	17	help			
+131	18	help			
+132	6	dialogue	Pokémon		
+132	7	dialogue	Pokémon		
+132	8	dialogue	Pokémon		
+134	11	dialogue	Nebby		
+134	13	dialogue	Nebby		
+136	3	dialogue	Nebby		
+138	6	dialogue	Pyukumuku		
+138	7	dialogue	Pyukumuku		
+138	8	dialogue	Pyukumuku		
+139	7	dialogue	Cosmog		
+141	17	dialogue	Rotom Pokédex	male	
+141	18	dialogue	Rotom Pokédex	male	
+141	19	dialogue	Rotom Pokédex	male	
+141	20	dialogue	Rotom Pokédex	male	
+142	1	dialogue	Cosmog		
+142	6	dialogue	Cosmog		
+142	10	dialogue	Cosmog		
+144	5	dialogue	Pokémon		
+144	6	dialogue	Pokémon		
+146	0	dialogue	passerby		
+146	1	dialogue	passerby		
+146	15	dialogue	Mallow	female	teen
+147	23	dialogue	Team Skull Grunt	male	young adult
+147	24	dialogue	Team Skull Grunt	male	young adult
+147	26	dialogue	Team Skull Grunt	male	young adult
+147	29	dialogue	Team Skull Grunt	male	young adult
+147	30	dialogue	Team Skull Grunt	male	young adult
+147	31	dialogue	Team Skull Grunt	male	young adult
+148	2	choice			
+148	3	choice			
+149	3	narration			
+150	1	dialogue	passerby	male	teen
+150	3	narration			
+152	1	narration			
+152	5	narration			
+156	0	narration			
+156	1	narration			
+156	2	dialogue	Lapras		
+157	8	choice			
+157	9	choice			
+159	0	dialogue	Sudowoodo		
+159	26	dialogue	Youngster	male	teen
+160	0	dialogue	Pokémon		
+160	3	dialogue	Team Skull Grunt	male	young adult
+160	4	dialogue	Team Skull Grunt	male	young adult
+160	8	dialogue	Team Skull Grunt	male	young adult
+160	9	dialogue	Team Skull Grunt	male	young adult
+160	13	dialogue	Team Skull Grunt	male	young adult
+160	14	dialogue	Team Skull Grunt	male	young adult
+160	15	dialogue	Team Skull Grunt	male	young adult
+160	16	dialogue	Drifloon		
+160	17	dialogue	Pokémon		
+160	20	dialogue	Team Skull Grunt	male	young adult
+160	22	dialogue	Drifloon		
+160	27	dialogue	Pokémon		
+166	13	narration			
+167	7	narration			
+167	8	choice			
+167	9	choice			
+167	10	narration			
+167	11	narration			
+167	12	narration			
+168	7	narration			
+168	8	narration			
+169	7	narration			
+169	8	narration			
+169	9	narration			
+169	10	narration			
+170	10	narration			
+170	11	narration			
+171	27	help			
+171	32	narration			
+171	33	narration			
+171	34	dialogue	Lurantis		
+171	35	narration			
+171	36	help			
+172	9	narration			
+172	20	dialogue	Lana	female	teen
+176	8	dialogue	Marowak		
+178	10	choice			
+179	10	narration			
+187	7	dialogue	Hau	male	teen
+188	2	dialogue	Cosmog		
+188	5	dialogue	Cosmog		
+189	15	dialogue	Cosmog		
+196	0	dialogue	Team Skull Grunt	male	young adult
+196	4	dialogue	Team Skull Grunt	male	young adult
+196	5	dialogue	Team Skull Grunt	male	young adult
+198	0	dialogue	Probopass		
+198	3	dialogue	Probopass		
+198	6	dialogue	Probopass		
+198	8	dialogue	Probopass		
+199	1	dialogue	Team Skull Grunt	male	young adult
+199	8	dialogue	Team Skull Grunt	male	young adult
+199	9	dialogue	Team Skull Grunt	male	young adult
+199	11	dialogue	Slowpoke		
+200	0	dialogue	Plumeria	female	young adult
+202	3	dialogue	Pokémon		
+202	7	dialogue	Pokémon		
+203	11	dialogue	Pokémon		
+204	0	dialogue	Pokémon		
+204	4	dialogue	Pokémon		
+205	1	dialogue	Pokémon		
+205	2	dialogue	Pokémon		
+205	3	dialogue	Pokémon		
+205	9	dialogue	Pokémon		
+205	10	dialogue	Pokémon		
+205	11	dialogue	Pokémon		
+209	0	dialogue	Lillie	female	teen
+209	2	dialogue	Lillie	female	teen
+209	4	dialogue	Lillie	female	teen
+214	5	choice			
+214	6	choice			
+215	2	dialogue	Lusamine	female	adult
+215	3	dialogue	Lusamine	female	adult
+216	0	narration			
+217	1	dialogue	Pokémon		
+217	4	dialogue	Pokémon		
+221	0	dialogue	Hau	male	teen
+221	1	dialogue	Hau	male	teen
+221	2	dialogue	Hau	male	teen
+221	3	dialogue	Hau	male	teen
+221	4	dialogue	Hau	male	teen
+221	5	dialogue	Hau	male	teen
+221	6	dialogue	Hau	male	teen
+221	7	dialogue	Hau	male	teen
+222	3	choice			
+222	4	choice			
+222	10	dialogue	Rotom Pokédex		
+223	7	dialogue	Pokémon		
+223	9	dialogue	Pokémon		
+225	2	dialogue	Pokémon		
+225	14	dialogue	Pokémon		
+226	2	dialogue	Pokémon		
+226	4	dialogue	Pokémon		
+229	0	dialogue	Team Skull Grunt	male	young adult
+229	1	dialogue	Team Skull Grunt	male	young adult
+230	0	dialogue	Team Skull Grunt	male	young adult
+230	1	dialogue	Team Skull Grunt	male	young adult
+230	2	dialogue	Team Skull Grunt	male	young adult
+230	3	dialogue	Team Skull Grunt	male	young adult
+230	4	dialogue	Team Skull Grunt	male	young adult
+230	5	dialogue	Team Skull Grunt	male	young adult
+232	1	dialogue	bus driver	male	adult
+232	2	dialogue	bus driver	male	adult
+232	3	dialogue	bus driver	male	adult
+232	4	dialogue	bus driver	male	adult
+232	5	dialogue	bus driver	male	adult
+232	6	dialogue	bus driver	male	adult
+234	0	dialogue	Hau	male	teen
+234	1	dialogue	Hau	male	teen
+234	2	dialogue	Hau	male	teen
+236	5	choice			
+236	6	choice			
+236	10	choice			
+236	11	choice			
+238	9	narration			
+239	0	narration			
+240	1	dialogue	security system		
+240	2	choice			
+240	3	choice			
+240	4	choice			
+240	5	choice			
+240	6	dialogue	security system		
+240	7	dialogue	Pokémon		
+240	11	dialogue	security system		
+240	14	dialogue	security system		
+240	15	choice			
+240	16	choice			
+240	17	choice			
+240	18	choice			
+240	19	dialogue	security system		
+240	20	dialogue	Pokémon		
+240	24	dialogue	security system		
+240	27	dialogue	security system		
+240	28	choice			
+240	29	choice			
+240	30	choice			
+240	31	choice			
+240	32	dialogue	security system		
+240	34	dialogue	Pokémon		
+240	38	dialogue	security system		
+240	42	narration			
+241	2	dialogue	security system		
+241	3	choice			
+241	4	choice			
+241	5	choice			
+241	6	choice			
+241	7	dialogue	security system		
+241	9	dialogue	Pokémon		
+241	11	narration			
+241	14	narration			
+252	0	dialogue	Team Skull Grunt	male	young adult
+252	1	dialogue	Team Skull Grunt	male	young adult
+254	0	dialogue	Team Skull Grunt	male	young adult
+254	1	dialogue	Team Skull Grunt	male	young adult
+254	3	dialogue	Team Skull Grunt	male	young adult
+254	5	dialogue	Team Skull Grunt	male	young adult
+254	6	dialogue	Team Skull Grunt	male	young adult
+254	11	dialogue	Team Skull Grunt	male	young adult
+256	22	dialogue	Team Skull Grunt	male	young adult
+256	26	dialogue	Team Skull Grunt	male	young adult
+256	27	dialogue	Trial Guide	female	adult
+258	5	dialogue	Trial Guide	female	adult
+258	6	dialogue	Trial Guide	female	adult
+259	4	dialogue	Pokémon		
+261	0	dialogue	Trial Guide	female	adult
+261	1	dialogue	Trial Guide	female	adult
+261	2	dialogue	Trial Guide	female	adult
+261	3	dialogue	Trainer girl	female	teen
+261	4	dialogue	Trainer girl	female	teen
+261	5	dialogue	Trainer girl	female	teen
+261	6	dialogue	Trainer girl	female	teen
+261	7	dialogue	Trainer girl	female	teen
+261	8	dialogue	Poliwhirl		
+261	9	dialogue	Poliwhirl		
+265	7	dialogue	Pokémon		
+265	15	dialogue	little girl	female	child
+265	16	dialogue	Preschooler	male	child
+266	1	dialogue	Team Skull Grunt	male	young adult
+266	2	dialogue	Team Skull Grunt	male	young adult
+266	4	dialogue	Team Skull Grunt	male	young adult
+266	5	dialogue	Team Skull Grunt	male	young adult
+266	10	dialogue	Pokémon		
+269	17	dialogue	Rotom Pokédex		
+269	18	dialogue	Rotom Pokédex		
+269	19	dialogue	Rotom Pokédex		
+270	4	dialogue	Rotom Pokédex		
+273	0	narration			
+275	8	dialogue	Team Skull Grunt		young adult
+276	6	dialogue	Preschooler	female	child
+276	7	dialogue	Preschooler		child
+276	11	dialogue	Pokémon		
+280	0	dialogue	Team Skull Grunt	male	young adult
+280	1	dialogue	Team Skull Grunt	female	young adult
+280	2	dialogue	Team Skull Grunt	male	young adult
+280	3	dialogue	Team Skull Grunt	female	young adult
+280	4	dialogue	Team Skull Grunt	male	young adult
+280	5	dialogue	Team Skull Grunt	male	young adult
+280	6	dialogue	Team Skull Grunt	female	young adult
+282	0	dialogue	Team Skull Grunt	male	young adult
+282	1	dialogue	Team Skull Grunt	female	young adult
+282	2	dialogue	Team Skull Grunt	male	young adult
+282	3	dialogue	Team Skull Grunt	female	young adult
+282	4	dialogue	Team Skull Grunt	male	young adult
+282	5	dialogue	Team Skull Grunt	male	young adult
+282	6	dialogue	Team Skull Grunt	male	young adult
+282	9	dialogue	Team Skull Grunt	male	young adult
+282	10	dialogue	Team Skull Grunt	female	young adult
+282	11	dialogue	Team Skull Grunt	female	young adult
+282	12	dialogue	Team Skull Grunt	male	young adult
+282	13	dialogue	Team Skull Grunt	male	young adult
+282	14	dialogue	Team Skull Grunt	male	young adult
+282	15	dialogue	Team Skull Grunt	male	young adult
+283	0	dialogue	Team Skull Grunt	male	young adult
+283	27	dialogue	Team Skull Grunt	male	young adult
+284	1	dialogue	Team Skull Grunt	female	young adult
+284	2	dialogue	Team Skull Grunt	female	young adult
+284	4	dialogue	Team Skull Grunt	female	young adult
+284	5	dialogue	Team Skull Grunt	female	young adult
+284	6	dialogue	Team Skull Grunt	female	young adult
+284	8	dialogue	Team Skull Grunt	female	young adult
+284	9	dialogue	Team Skull Grunt	female	young adult
+285	12	dialogue	Pokémon		
+286	1	dialogue	Pokémon		
+287	2	dialogue	Pokémon		
+287	9	dialogue	Pokémon		
+288	1	dialogue	Pokémon		
+288	5	dialogue	Hau	male	teen
+288	6	dialogue	Hau	male	teen
+289	4	dialogue	Team Skull Grunt	male	young adult
+291	10	dialogue	Preschooler		child
+291	11	dialogue	Preschooler		child
+291	12	dialogue	Pokémon		
+303	5	dialogue	Aether Foundation grunt	male	adult
+303	6	dialogue	Aether Foundation grunt	male	adult
+303	8	dialogue	Aether Foundation grunt	male	adult
+306	8	dialogue	Team Skull Grunt	male	young adult
+311	0	dialogue	Hala	male	elderly
+311	1	dialogue	Hala	male	elderly
+311	2	dialogue	Hala	male	elderly
+311	3	dialogue	Hala	male	elderly
+311	5	dialogue	Hala	male	elderly
+311	6	dialogue	Hala	male	elderly
+311	7	dialogue	Hala	male	elderly
+312	0	dialogue	Hala	male	elderly
+312	1	dialogue	Hala	male	elderly
+312	2	dialogue	Hala	male	elderly
+312	3	dialogue	Hala	male	elderly
+312	5	dialogue	Hala	male	elderly
+312	6	dialogue	Hala	male	elderly
+312	7	dialogue	Hala	male	elderly
+316	0	empty			
+317	0	empty			
+318	0	dialogue	Pokémon		
+320	28	choice			
+320	29	choice			
+322	0	empty			
+326	8	dialogue	Rotom Pokédex		
+326	9	dialogue	Rotom Pokédex		
+326	10	dialogue	Rotom Pokédex		
+326	11	dialogue	Rotom Pokédex		
+327	1	dialogue	Hala	male	older adult
+327	5	dialogue	Hala	male	older adult
+327	8	dialogue	Hala	male	older adult
+327	9	dialogue	Hala	male	older adult
+327	10	dialogue	Hala	male	older adult
+327	11	dialogue	Hala	male	older adult
+327	17	dialogue	Hala	male	older adult
+327	18	dialogue	Hala	male	older adult
+327	22	dialogue	Hala	male	older adult
+329	0	dialogue	Pokémon		
+329	15	dialogue	Pokémon		
+330	18	dialogue	Hala	male	elderly
+331	10	dialogue	Pokémon		
+334	0	dialogue	Hapu	female	teen
+334	1	dialogue	Hapu	female	teen
+334	2	dialogue	Hapu	female	teen
+334	3	dialogue	Hapu	female	teen
+336	5	dialogue	Pokémon		
+337	24	dialogue	Hala	male	older adult
+337	25	dialogue	Hala	male	older adult
+337	26	dialogue	Hala	male	older adult
+337	27	dialogue	Hala	male	older adult
+338	0	dialogue	Hala	male	older adult
+338	1	dialogue	Hala	male	older adult
+338	2	dialogue	Hala	male	older adult
+338	3	dialogue	Hala	male	older adult
+338	4	dialogue	Hala	male	older adult
+338	5	dialogue	Hala	male	older adult
+338	7	dialogue	Hala	male	older adult
+338	8	dialogue	Hala	male	older adult
+338	9	dialogue	Hala	male	older adult
+338	10	dialogue	Hala	male	older adult
+341	5	narration			
+342	11	choice			
+342	12	choice			
+342	13	choice			
+345	0	dialogue	Team Skull Grunt	male	teen
+345	2	dialogue	Team Skull Grunt	male	teen
+345	3	dialogue	Team Skull Grunt	male	teen
+345	4	dialogue	Team Skull Grunt	male	teen
+345	5	dialogue	Team Skull Grunt	male	teen
+345	6	dialogue	Team Skull Grunt	male	teen
+346	4	dialogue	Pokémon		
+354	0	dialogue	Mina	female	young adult
+355	9	dialogue	Pokémon		
+358	0	empty			
+359	0	empty			
+360	2	dialogue	Pokémon		
+360	3	dialogue	Pokémon		
+360	9	dialogue	Pokémon		
+360	10	dialogue	Pokémon		
+361	2	dialogue	Pokémon		
+361	6	dialogue	Pokémon		
+361	7	dialogue	Pokémon		
+362	24	dialogue	Lillie	female	teen
+362	25	dialogue	Lillie	female	teen
+362	38	choice			
+362	39	choice			
+363	11	dialogue	Zossie	female	child
+363	19	choice			
+363	20	choice			
+364	4	dialogue	Pokémon		
+365	10	choice			
+365	18	choice			
+365	19	choice			
+365	22	choice			
+365	23	choice			
+365	25	dialogue	Pokémon		
+368	5	dialogue	Pokémon		
+368	6	dialogue	Pokémon		
+370	0	empty			
+371	0	dialogue	Lillie	female	teen
+371	1	dialogue	Lillie	female	teen
+371	2	narration			
+371	3	narration			
+371	4	narration			
+371	5	narration			
+371	6	narration			
+371	7	narration			
+373	0	empty			
+374	1	dialogue	Lillie	female	teen
+374	2	dialogue	Lillie	female	teen
+374	6	dialogue	Pokémon		
+374	7	dialogue	Pokémon		
+374	10	dialogue	Pokémon		
+374	11	dialogue	Pokémon		
+374	13	dialogue	Pokémon		
+374	14	dialogue	Pokémon		
+374	15	narration			
+374	16	narration			
+377	0	empty			
+378	0	dialogue	Lillie	female	teen
+378	1	dialogue	Lillie	female	teen
+378	2	dialogue	Lusamine	female	adult
+378	3	dialogue	Lillie	female	teen
+378	4	dialogue	Lusamine	female	adult
+378	5	dialogue	Lusamine	female	adult
+380	0	dialogue	Pokémon		
+380	1	dialogue	Pokémon		
+381	12	dialogue	Pokémon		
+381	13	dialogue	Pokémon		
+381	17	dialogue	Pokémon		
+381	18	dialogue	Pokémon		
+381	22	dialogue	Pokémon		
+381	23	dialogue	Pokémon		
+382	0	dialogue	Pokémon		
+382	2	dialogue	Pokémon		
+384	0	dialogue	Pokémon		
+384	1	dialogue	Pokémon		
+384	7	dialogue	Pokémon		
+384	9	dialogue	Pokémon		
+388	0	dialogue	Hala	male	older adult
+388	1	dialogue	Hala	male	older adult
+388	2	dialogue	Hala	male	older adult
+388	3	dialogue	Hala	male	older adult
+388	4	dialogue	Hala	male	older adult
+393	4	dialogue	Pokémon		
+393	7	narration			
+397	0	dialogue	Hala	male	elderly
+404	7	choice			
+404	8	dialogue	player		
+408	5	narration			
+408	6	narration			
+408	7	dialogue	Tapu Koko		
+408	8	dialogue	Tapu Koko		
+408	9	dialogue	Tapu Koko		
+408	10	dialogue	Tapu Koko		
+408	11	narration			
+408	12	narration			
+408	13	narration			
+409	8	dialogue			
+412	2	dialogue	Meowth		
+413	4	dialogue	Meowth		
+413	6	narration			
+413	7	narration			
+413	8	narration			
+413	12	choice			
+413	13	choice			
+413	24	dialogue	Meowth		
+418	36	dialogue	Trainer	male	teen
+418	37	dialogue	Trainer	male	teen
+418	38	dialogue		male	teen
+418	39	dialogue		male	teen
+419	0	dialogue	child trainer	female	child
+419	1	dialogue	child trainer	female	child
+419	2	dialogue	child trainer	female	child
+420	0	dialogue	Lillie	female	teen
+420	1	dialogue	Lillie	female	teen
+420	2	dialogue	Guzma	male	young adult
+420	3	dialogue	Lillie	female	teen
+420	4	dialogue	Lusamine	female	adult
+420	5	dialogue	Lusamine	female	adult
+420	6	dialogue	Lusamine	female	adult
+420	7	dialogue	Lillie	female	teen
+421	4	dialogue	Meowth		
+425	2	dialogue	Meowth		
+425	10	dialogue	Meowth		
+430	0	dialogue	Team Rainbow Rocket Executive	male	adult
+430	2	dialogue	Team Rainbow Rocket Executive	male	adult
+430	3	dialogue	Team Rainbow Rocket Executive	male	adult
+430	4	dialogue	Team Rainbow Rocket Executive	male	adult
+430	5	dialogue	Team Rainbow Rocket Executive	male	adult
+431	0	dialogue	Meowth		
+431	3	dialogue	Meowth		
+431	6	dialogue	Meowth		
+432	3	dialogue	crowd member	female	adult
+432	12	dialogue	Team Rainbow Rocket Executive	male	adult
+432	13	dialogue	Team Rainbow Rocket Executive	male	adult
+432	14	dialogue	Team Rainbow Rocket Executive	male	adult
+433	1	dialogue	Meowth		
+438	0	dialogue	Team Skull Grunt	male	young adult
+438	1	dialogue	Team Skull Grunt	male	young adult
+438	4	dialogue	Team Skull Grunt	male	young adult
+438	5	dialogue	Team Skull Grunt	female	young adult
+438	9	dialogue	Team Skull Grunt	male	young adult
+438	10	dialogue	Team Skull Grunt	male	young adult
+438	17	dialogue	Team Skull Grunt	female	young adult
+439	13	dialogue	Team Rainbow Rocket Grunt	male	teen
+441	1	dialogue	Team Rainbow Rocket Grunt Leader	male	young adult
+441	2	dialogue	Team Rainbow Rocket Grunt	male	young adult
+441	3	dialogue	Team Rainbow Rocket Grunt	male	young adult
+441	4	dialogue	Team Rainbow Rocket Grunt Leader	male	young adult
+441	5	dialogue	Team Rainbow Rocket Grunt Leader	male	young adult
+441	20	dialogue	Team Rainbow Rocket Grunt Leader	male	young adult
+441	21	dialogue	Team Rainbow Rocket Grunt Leader	female	adult
+441	22	dialogue	Team Rainbow Rocket Grunt	male	young adult
+441	30	dialogue	Team Rainbow Rocket Grunt	male	teen
+441	32	dialogue	Team Rainbow Rocket Grunt Leader	male	older adult
+443	18	dialogue	Team Skull Grunt	male	young adult
+443	19	dialogue	Team Skull Grunt	male	young adult
+443	20	dialogue	Team Skull Grunt	male	young adult
+443	21	dialogue	Team Skull Grunt	male	young adult
+443	23	dialogue	Team Skull Grunt	male	young adult
+443	24	dialogue	Team Skull Grunt	male	young adult
+443	26	dialogue	Team Skull Grunt	male	young adult
+443	27	dialogue	Team Skull Grunt	male	young adult
+445	12	dialogue	Rotom Pokédex		
+445	14	dialogue	Rotom Pokédex		
+445	23	dialogue	Rotom Pokédex		
+446	5	dialogue	Team Rainbow Rocket	male	adult
+446	7	dialogue	Team Rainbow Rocket	female	adult
+449	1	dialogue	Giovanni	male	older adult
+449	2	dialogue	Giovanni	male	older adult
+449	3	dialogue	Giovanni	male	older adult
+449	4	dialogue	Giovanni	male	older adult
+449	6	dialogue	Giovanni	male	older adult
+449	7	dialogue	Giovanni	male	older adult
+451	3	dialogue	Wicke	female	adult
+451	5	dialogue	Wicke	female	adult
+466	3	dialogue	Pokémon		
+466	7	dialogue	Pokémon		
+466	8	dialogue	Pokémon		
+466	13	dialogue	Sudowoodo		
+467	3	narration			
+469	2	dialogue	Pokémon		
+469	3	dialogue	Pokémon		
+469	4	dialogue	Pokémon		
+469	5	dialogue	Pokémon		
+469	6	dialogue	Togedemaru		
+469	7	dialogue	Togedemaru		
+471	4	dialogue	Togedemaru		
+474	5	dialogue	Charjabug		
+474	9	dialogue	Pokémon		
+475	2	dialogue	Togedemaru		
+476	14	dialogue	Togedemaru		
+479	2	dialogue	Togedemaru		
+479	6	dialogue	Elekid		
+480	3	dialogue	Togedemaru		
+480	5	dialogue	Electabuzz		
+481	2	dialogue	Sophocles	male	teen
+481	10	dialogue	Electabuzz		
+484	9	name			
+484	11	name			
+484	12	name			
+484	13	name			
+484	14	name			
+484	15	choice			
+484	24	dialogue	Trial Guide	male	adult
+484	26	dialogue	Trial Guide	male	adult
+484	28	dialogue	Trial Guide	male	adult
+484	29	dialogue	Trial Guide	female	adult
+487	32	dialogue	Kiawe	male	teen
+488	1	dialogue	Comfey		
+488	2	dialogue	Pokémon		
+489	4	dialogue	Togedemaru		
+489	14	dialogue	Togedemaru		
+489	20	dialogue	Togedemaru		
+490	16	dialogue	Pokémon		
+494	6	dialogue	Swimmer	male	young adult
+494	7	dialogue	Swimmer	male	young adult
+494	9	dialogue	Swimmer	male	young adult
+494	11	dialogue	Mantine		
+494	14	dialogue	Swimmer	male	young adult
+494	15	dialogue	Swimmer	male	young adult
+494	16	sign			
+494	18	sign			
+494	19	sign			
+494	20	sign			
+494	21	sign			
+494	22	sign			
+494	23	sign			
+494	24	sign			
+494	25	sign			
+494	26	sign			
+494	27	sign			
+494	28	sign			
+494	29	sign			
+494	30	sign			
+494	31	sign			
+494	41	dialogue	Mantine		
+494	42	narration			
+494	43	narration			
+494	44	narration			
+494	45	dialogue	Mantine		
+494	46	dialogue	Mantine		
+494	47	dialogue	Mantine		
+494	48	dialogue	Mantine		
+494	59	dialogue	Swimmer	male	young adult
+494	60	dialogue	Swimmer	male	young adult
+494	61	dialogue	Swimmer	male	young adult
+494	62	dialogue	Swimmer	male	young adult
+494	63	dialogue	Mantine		
+494	64	dialogue	Mantine		
+496	0	dialogue	woman	female	adult
+496	1	dialogue	woman	female	adult
+496	2	dialogue	woman	female	adult
+496	3	dialogue	woman	female	adult
+496	4	dialogue	woman	female	adult
+496	5	dialogue	woman	female	adult
+496	6	dialogue	woman	female	adult
+496	7	dialogue	woman	female	adult
+496	18	narration			
+496	19	narration			
+496	20	narration			
+496	21	narration			
+496	22	dialogue	woman	female	adult
+496	23	dialogue	woman	female	adult
+496	24	dialogue	woman	female	adult
+496	25	dialogue	woman	female	adult
+496	26	dialogue	woman	female	adult
+496	27	dialogue	woman	female	adult
+496	28	dialogue	woman	female	adult
+496	30	dialogue	woman	female	adult
+496	31	dialogue	woman	female	adult
+496	33	narration			
+496	34	narration			
+496	35	narration			
+496	36	narration			
+496	37	narration			
+496	38	narration			
+496	39	narration			
+496	40	narration			
+496	41	narration			
+496	42	narration			
+496	48	dialogue	Beauty	female	young adult
+496	49	dialogue	Beauty	female	young adult
+496	50	dialogue	Beauty	female	young adult
+496	51	dialogue	Beauty	female	young adult
+496	52	dialogue	Beauty	female	young adult
+496	53	dialogue	Beauty	female	young adult
+496	58	choice			
+496	59	choice			
+496	60	choice			
+496	61	choice			
+496	62	choice			
+496	63	choice			
+496	64	choice			
+496	65	help			
+496	66	help			
+496	67	help			
+496	68	help			
+496	69	help			
+496	70	help			
+497	3	narration			
+497	4	narration			
+497	5	narration			
+498	17	dialogue	Madame	female	older adult
+498	18	dialogue	Madame	female	older adult
+498	19	dialogue	Madame	female	older adult
+498	20	dialogue	Madame	female	older adult
+498	25	dialogue	Madame	female	older adult
+498	26	dialogue	Madame	female	older adult
+498	27	narration			
+498	28	narration			
+498	29	narration			
+499	0	dialogue	move tutor	female	adult
+499	1	dialogue	move tutor	female	adult
+499	2	dialogue	move tutor	female	adult
+499	3	dialogue	move tutor	female	adult
+499	4	dialogue	move tutor	female	adult
+499	5	dialogue	move tutor	female	adult
+499	6	dialogue	move tutor	female	adult
+499	7	dialogue	move tutor	female	adult
+499	8	dialogue	move tutor	female	adult
+499	9	dialogue	move tutor	female	adult
+499	10	dialogue	move tutor	female	adult
+499	11	dialogue	move tutor	female	adult
+499	12	narration			
+499	13	narration			
+499	14	narration			
+500	0	dialogue	move tutor	female	adult
+500	1	dialogue	move tutor	female	adult
+500	2	dialogue	move tutor	female	adult
+500	3	dialogue	move tutor	female	adult
+500	4	dialogue	move tutor	female	adult
+500	5	dialogue	move tutor	female	adult
+500	6	dialogue	move tutor	female	adult
+500	7	dialogue	move tutor	female	adult
+500	8	dialogue	move tutor	female	adult
+500	9	dialogue	move tutor	female	adult
+500	10	narration			
+500	11	narration			
+500	12	narration			
+501	0	dialogue	old man	male	elderly
+501	1	dialogue	old man	male	elderly
+501	2	dialogue	old man	male	elderly
+501	3	dialogue	old man	male	elderly
+501	4	dialogue	old man	male	elderly
+501	5	dialogue	old man	male	elderly
+501	6	dialogue	old man	male	elderly
+501	7	dialogue	old man	male	elderly
+501	8	dialogue	old man	male	elderly
+501	9	dialogue	old man	male	elderly
+501	10	narration			
+501	11	narration			
+501	12	narration			
+502	0	dialogue	Move Tutor	male	older adult
+502	1	dialogue	Move Tutor	male	older adult
+502	2	dialogue	Move Tutor	male	older adult
+502	3	dialogue	Move Tutor	male	older adult
+502	4	dialogue	Move Tutor	male	older adult
+502	5	dialogue	Move Tutor	male	older adult
+502	6	dialogue	Move Tutor	male	older adult
+502	7	dialogue	Move Tutor	male	older adult
+502	8	dialogue	Move Tutor	male	older adult
+502	9	narration			
+502	10	dialogue	Move Tutor	male	older adult
+502	11	narration			
+502	12	dialogue	Move Tutor	male	older adult
+502	13	narration			
+502	14	narration			
+502	15	narration			
+502	16	dialogue	Move Tutor	male	older adult
+503	0	dialogue	Move Tutor	male	older adult
+503	1	dialogue	Move Tutor	male	older adult
+503	2	dialogue	Move Tutor	male	older adult
+503	3	dialogue	Move Tutor	male	older adult
+503	4	dialogue	Move Tutor	male	older adult
+503	5	dialogue	Move Tutor	male	older adult
+503	6	dialogue	Move Tutor	male	older adult
+503	7	dialogue	Move Tutor	male	older adult
+503	8	dialogue	Move Tutor	male	older adult
+503	9	dialogue	Move Tutor	male	older adult
+503	10	dialogue	Move Tutor	male	older adult
+503	11	dialogue	Move Tutor	male	older adult
+503	12	narration			
+503	13	narration			
+503	14	narration			
+504	7	dialogue	Pokémon Center Lady	female	adult
+504	8	dialogue	Pokémon Center Lady	female	adult
+504	12	dialogue	Pokémon Center Lady	female	adult
+504	13	dialogue	Pokémon Center Lady	female	adult
+504	14	dialogue	Pokémon Center Lady	female	adult
+504	15	dialogue	Pokémon Center Lady	female	adult
+504	16	dialogue	Pokémon Center Lady	female	adult
+504	17	dialogue	Pokémon Center Lady	female	adult
+505	19	narration			
+505	33	dialogue	Mohn	male	adult
+505	105	narration			
+505	148	dialogue	Mohn	male	adult
+505	151	dialogue	Mohn	male	adult
+505	154	dialogue	Mohn	male	adult
+505	157	dialogue	Mohn	male	adult
+505	160	dialogue	Mohn	male	adult
+505	163	dialogue	Mohn	male	adult
+505	179	dialogue	Mohn	male	adult
+505	225	dialogue	Mohn	male	adult
+505	236	dialogue	Mohn	male	adult
+505	263	dialogue	Mohn	male	adult
+506	0	dialogue	delivery person		adult
+506	1	dialogue	delivery person		adult
+506	2	dialogue	delivery person		adult
+506	3	dialogue	delivery person		adult
+506	4	dialogue	delivery person		adult
+506	9	dialogue	delivery person		adult
+506	10	dialogue	delivery person		adult
+506	11	dialogue	delivery person		adult
+506	15	dialogue	delivery person		adult
+506	16	dialogue	delivery person		adult
+506	23	dialogue	delivery person		adult
+506	24	dialogue	delivery person		adult
+506	25	dialogue	delivery person		adult
+506	26	choice			
+506	27	choice			
+506	31	dialogue	delivery person		adult
+506	32	dialogue	delivery person		adult
+506	33	dialogue	delivery person		adult
+506	34	dialogue	delivery person		adult
+506	35	dialogue	delivery person		adult
+506	36	dialogue	delivery person		adult
+507	2	dialogue	Rotom Pokédex		
+508	0	dialogue	ferry attendant		adult
+508	1	dialogue	ferry attendant		adult
+508	2	dialogue	ferry attendant		adult
+508	3	dialogue	ferry attendant		adult
+508	4	dialogue	ferry attendant		adult
+508	5	dialogue	ferry attendant		adult
+508	6	dialogue	ferry attendant		adult
+508	7	dialogue	ferry attendant		adult
+508	8	dialogue	ferry attendant		adult
+508	9	dialogue	ferry attendant		adult
+508	10	dialogue	ferry attendant		adult
+508	11	dialogue	ferry attendant		adult
+508	12	dialogue	ferry attendant		adult
+508	13	dialogue	ferry attendant		adult
+508	17	dialogue	ferry attendant		adult
+508	18	dialogue	ferry attendant		adult
+508	19	dialogue	ferry attendant		adult
+508	20	name			
+508	21	name			
+508	22	name			
+508	23	name			
+508	24	name			
+509	5	narration			
+509	6	narration			
+509	7	narration			
+509	9	narration			
+509	11	dialogue	woman	female	adult
+509	26	narration			
+509	31	choice			
+509	32	choice			
+510	1	dialogue	Pokémon Breeder	female	adult
+510	3	dialogue	Pokémon Breeder	female	adult
+510	4	dialogue	Pokémon Breeder	female	adult
+510	5	dialogue	Pokémon Breeder	female	adult
+510	6	dialogue	Pokémon Breeder	female	adult
+510	13	dialogue	Pokémon Breeder	female	adult
+510	14	dialogue	Pokémon Breeder	female	adult
+510	15	dialogue	Pokémon Breeder	female	adult
+510	16	dialogue	Pokémon Breeder	female	adult
+510	17	dialogue	Pokémon Breeder	female	adult
+510	18	dialogue	Pokémon Breeder	female	adult
+510	19	dialogue	Pokémon Breeder	female	adult
+510	20	dialogue	Pokémon Breeder	female	adult
+510	21	dialogue	Pokémon Breeder	female	adult
+510	22	dialogue	Pokémon Breeder	female	adult
+510	23	dialogue	Pokémon Breeder	female	adult
+510	24	dialogue	Pokémon Breeder	female	adult
+510	26	dialogue	Pokémon Breeder	female	adult
+510	27	dialogue	Pokémon Breeder	female	adult
+510	29	dialogue	Pokémon Breeder	female	adult
+510	30	dialogue	Pokémon Breeder	female	adult
+510	31	dialogue	Pokémon Breeder	female	adult
+510	35	name			
+510	39	dialogue	Pokémon Breeder	female	adult
+510	40	narration			
+510	41	narration			
+511	7	dialogue	Gentleman	male	older adult
+511	11	choice			
+511	12	choice			
+512	2	dialogue	Preschooler	female	child
+512	3	dialogue	Preschooler	female	child
+512	4	dialogue	Preschooler	female	child
+512	7	dialogue	Preschooler	female	child
+512	8	dialogue	Preschooler	female	child
+512	9	dialogue	Preschooler	female	child
+512	10	dialogue	Preschooler	female	child
+512	13	dialogue	Preschooler	female	child
+512	14	dialogue	Preschooler	female	child
+512	15	dialogue	Preschooler	female	child
+512	16	dialogue	Preschooler	female	child
+512	18	dialogue	Preschooler	female	child
+512	19	dialogue	Preschooler	female	child
+512	21	dialogue	Preschooler	female	child
+512	22	dialogue	Preschooler	female	child
+512	24	dialogue	Preschooler	female	child
+512	25	dialogue	Preschooler	female	child
+512	26	dialogue	Preschooler	female	child
+512	27	dialogue	Preschooler	female	child
+512	29	dialogue	Preschooler	female	child
+512	30	dialogue	Preschooler	female	child
+512	35	choice			
+512	36	choice			
+512	38	dialogue	Preschooler	female	child
+512	39	dialogue	Preschooler	female	child
+513	4	dialogue	Mallow's brother	male	young adult
+513	5	dialogue	Mallow's brother	male	young adult
+513	8	dialogue	Mallow's brother	male	young adult
+513	9	dialogue	Mallow's brother	male	young adult
+513	12	dialogue	Wimpod		
+513	14	dialogue	Wimpod		
+513	16	choice			
+513	17	choice			
+513	32	dialogue	Wimpod		
+514	13	dialogue	Office Worker	male	adult
+514	21	choice			
+514	22	choice			
+515	0	dialogue	Team Skull Grunt		teen
+515	1	dialogue	Team Skull Grunt		teen
+515	2	dialogue	Team Skull Grunt		teen
+515	3	dialogue	Spinda		
+515	4	dialogue	Team Skull Grunt		teen
+515	5	dialogue	Team Skull Grunt		teen
+515	6	dialogue	Team Skull Grunt		teen
+515	7	dialogue	Spinda		
+515	8	dialogue	Team Skull Grunt		teen
+515	9	dialogue	Team Skull Grunt		teen
+515	10	dialogue	Team Skull Grunt		teen
+515	11	dialogue	Team Skull Grunt		teen
+515	12	dialogue	Spinda		
+515	16	dialogue	Team Skull Grunt		teen
+518	0	dialogue	Rotom Pokédex		
+518	1	dialogue	Samson Oak	male	older adult
+518	2	dialogue	Rotom Pokédex		
+518	6	dialogue	Rotom Pokédex		
+519	0	dialogue	newlywed husband	male	young adult
+519	1	choice			
+519	3	dialogue	newlywed husband	male	young adult
+519	4	dialogue	newlywed husband	male	young adult
+519	5	dialogue	newlywed husband	male	young adult
+519	6	dialogue	newlywed husband	male	young adult
+519	7	dialogue	newlywed husband	male	young adult
+519	9	dialogue	newlywed husband	male	young adult
+519	10	dialogue	newlywed husband	male	young adult
+519	11	dialogue	laid-back woman	female	young adult
+519	12	choice			
+519	13	choice			
+519	14	dialogue	laid-back woman	female	young adult
+519	15	dialogue	laid-back woman	female	young adult
+519	16	dialogue	laid-back woman	female	young adult
+519	17	dialogue	laid-back woman	female	young adult
+519	18	dialogue	laid-back woman	female	young adult
+519	19	dialogue	laid-back woman	female	young adult
+519	20	dialogue	laid-back woman	female	young adult
+519	21	dialogue	laid-back woman	female	young adult
+519	22	dialogue	honeymoon wife	female	young adult
+519	23	choice			
+519	24	choice			
+519	25	dialogue	honeymoon wife	female	young adult
+519	26	dialogue	honeymoon wife	female	young adult
+519	27	dialogue	honeymoon wife	female	young adult
+519	28	dialogue	honeymoon wife	female	young adult
+519	29	dialogue	honeymoon wife	female	young adult
+519	30	dialogue	honeymoon wife	female	young adult
+519	31	dialogue	honeymoon wife	female	young adult
+519	32	dialogue	honeymoon wife	female	young adult
+519	33	dialogue	fashion designer	female	young adult
+519	34	choice			
+519	35	choice			
+519	36	dialogue	fashion designer	female	young adult
+519	37	dialogue	fashion designer	female	young adult
+519	38	dialogue	fashion designer	female	young adult
+519	39	dialogue	fashion designer	female	young adult
+519	40	dialogue	fashion designer	female	young adult
+519	41	dialogue	fashion designer	female	young adult
+519	42	dialogue	fashion designer	female	young adult
+519	43	dialogue	fashion designer	female	young adult
+519	44	dialogue	Corsola researcher		adult
+519	45	choice			
+519	46	choice			
+519	47	dialogue	Corsola researcher		adult
+519	48	dialogue	Corsola researcher		adult
+519	49	dialogue	Corsola researcher		adult
+519	50	dialogue	Corsola researcher		adult
+519	51	dialogue	Corsola researcher		adult
+519	52	dialogue	Corsola researcher		adult
+519	53	dialogue	Corsola researcher		adult
+519	54	dialogue	Corsola researcher		adult
+519	55	dialogue	Aether Foundation employee		adult
+519	56	choice			
+519	57	choice			
+519	58	dialogue	Aether Foundation employee		adult
+519	59	dialogue	Aether Foundation researcher		adult
+519	60	dialogue	Aether Foundation researcher		adult
+519	61	dialogue	Aether Foundation researcher		adult
+519	62	dialogue	Aether Foundation researcher		adult
+519	63	dialogue	Aether Foundation researcher		adult
+519	64	dialogue	Aether Foundation researcher		adult
+519	65	dialogue	Aether Foundation researcher		adult
+519	66	dialogue	Rotom Dex man	male	adult
+519	67	choice			
+519	68	choice			
+519	69	dialogue	Rotom Dex man	male	adult
+519	70	dialogue	Aether Foundation employee	male	adult
+519	71	dialogue	Aether Foundation employee	male	adult
+519	72	dialogue	Aether Foundation employee	male	adult
+519	73	dialogue	Aether Foundation employee	male	adult
+519	74	dialogue	Aether Foundation employee	male	adult
+519	75	dialogue	Aether Foundation employee	male	adult
+519	76	dialogue	Aether Foundation employee	male	adult
+519	77	dialogue	Rotom Dex man	male	adult
+519	78	choice			
+519	79	choice			
+519	80	dialogue	Rotom Dex man	male	adult
+519	81	dialogue	Aether Foundation employee	male	adult
+519	82	dialogue	Aether Foundation employee	male	adult
+519	83	dialogue	Aether Foundation employee	male	adult
+519	84	dialogue	Aether Foundation employee	male	adult
+519	85	dialogue	Aether Foundation employee	male	adult
+519	86	dialogue	Aether Foundation employee	male	adult
+519	87	dialogue	Aether Foundation employee	male	adult
+519	88	dialogue	shy young man	male	young adult
+519	89	choice			
+519	90	choice			
+519	91	dialogue	shy young man	male	young adult
+519	92	dialogue	shy young man	male	young adult
+519	93	dialogue	shy young man	male	young adult
+519	94	dialogue	shy young man	male	young adult
+519	95	dialogue	shy young man	male	young adult
+519	96	dialogue	shy young man	male	young adult
+519	97	dialogue	shy young man	male	young adult
+519	98	dialogue	shy young man	male	young adult
+519	99	dialogue	Garchomp requester	female	young adult
+519	100	choice			
+519	101	choice			
+519	102	dialogue	Garchomp requester	female	young adult
+519	103	dialogue	Garchomp requester	female	young adult
+519	104	dialogue	Garchomp requester	female	young adult
+519	105	dialogue	Garchomp requester	female	young adult
+519	106	dialogue	Garchomp requester	female	young adult
+519	107	dialogue	Garchomp requester	female	young adult
+519	108	dialogue	Garchomp requester	female	young adult
+519	109	dialogue	Aether Foundation staffer	female	young adult
+520	0	dialogue	mysterious man	male	older adult
+520	1	dialogue	mysterious man	male	older adult
+520	2	dialogue	mysterious man	male	older adult
+520	3	dialogue	mysterious man	male	older adult
+520	4	dialogue	mysterious man	male	older adult
+520	5	dialogue	mysterious man	male	older adult
+520	6	dialogue	mysterious man	male	older adult
+520	7	dialogue	mysterious man	male	older adult
+520	8	dialogue	mysterious man	male	older adult
+520	9	dialogue	mysterious man	male	older adult
+520	10	dialogue	mysterious man	male	older adult
+520	13	dialogue	mysterious man	male	older adult
+520	14	dialogue	mysterious man	male	older adult
+520	15	dialogue	mysterious man	male	older adult
+520	16	dialogue	mysterious man	male	older adult
+520	17	dialogue	mysterious man	male	older adult
+520	18	dialogue	mysterious man	male	older adult
+520	19	dialogue	mysterious man	male	older adult
+520	20	dialogue	mysterious man	male	older adult
+520	21	dialogue	mysterious man	male	older adult
+520	22	dialogue	mysterious man	male	older adult
+520	23	dialogue	mysterious man	male	older adult
+520	24	dialogue	mysterious man	male	older adult
+520	25	dialogue	mysterious man	male	older adult
+520	26	dialogue	mysterious man	male	older adult
+520	27	dialogue	mysterious man	male	older adult
+520	28	dialogue	mysterious man	male	older adult
+523	6	dialogue	middle-aged man	male	older adult
+523	7	dialogue	middle-aged man	male	older adult
+523	8	dialogue	middle-aged man	male	older adult
+523	9	dialogue	middle-aged man	male	older adult
+523	10	dialogue	middle-aged man	male	older adult
+527	19	dialogue	woman	female	adult
+527	20	dialogue	woman	female	adult
+527	21	dialogue	woman	female	adult
+527	22	dialogue	woman	female	adult
+527	23	dialogue	woman	female	adult
+527	40	narration			
+527	41	narration			
+527	42	narration			
+527	43	narration			
+527	44	narration			
+527	45	narration			
+527	46	narration			
+527	47	narration			
+527	48	narration			
+527	49	dialogue	diner		
+527	50	dialogue	diner		
+527	51	dialogue	diner		
+527	75	dialogue	Dancer	female	young adult
+527	76	dialogue	Dancer	female	young adult
+527	77	dialogue	Dancer	female	young adult
+527	78	dialogue	Dancer	female	young adult
+527	97	dialogue	Dancer	female	young adult
+527	98	dialogue	Dancer	female	young adult
+527	100	dialogue	Dancer	female	young adult
+527	101	dialogue	rich trainer	male	young adult
+527	102	dialogue	rich trainer	male	young adult
+527	104	dialogue	rich trainer	male	young adult
+527	105	dialogue	rich trainer	male	young adult
+527	106	dialogue	Cook	male	adult
+527	108	dialogue	Cook	male	adult
+527	109	dialogue	lady trainer	female	young adult
+527	110	dialogue	lady trainer	female	young adult
+527	112	dialogue	lady trainer	female	young adult
+527	113	dialogue	martial artist	male	young adult
+527	114	dialogue	martial artist	male	young adult
+527	116	dialogue	martial artist	male	young adult
+527	117	dialogue	lady trainer	female	young adult
+527	118	dialogue	Pokémon Breeder	female	young adult
+527	120	dialogue	Pokémon Breeder	female	young adult
+527	121	dialogue	man	male	adult
+527	122	dialogue	businessman	male	adult
+527	124	dialogue	businessman	male	adult
+527	125	dialogue	young woman	female	young adult
+527	126	dialogue	young woman	female	young adult
+527	128	dialogue	young woman	female	young adult
+527	129	dialogue	brawny man	male	adult
+527	130	dialogue	brawny man	male	adult
+527	132	dialogue	brawny man	male	adult
+527	133	dialogue	Kansai girl	female	young adult
+527	134	dialogue	Kansai girl	female	young adult
+527	136	dialogue	Kansai girl	female	young adult
+527	137	dialogue	Youngster	male	teen
+527	138	dialogue	Youngster	male	teen
+527	140	dialogue	Youngster	male	teen
+527	141	dialogue	diner		
+527	142	dialogue	diner	female	young adult
+527	144	dialogue	diner	female	young adult
+527	145	dialogue	diner		
+527	146	dialogue	diner		
+527	148	dialogue	diner		
+527	149	dialogue	diner	female	young adult
+527	150	dialogue	Dancer	female	young adult
+527	152	dialogue	Dancer	female	young adult
+527	153	dialogue	Dancer	female	young adult
+527	154	dialogue	Dancer	female	young adult
+527	156	dialogue	Dancer	female	young adult
+527	163	narration			
+527	164	narration			
+527	165	narration			
+527	166	narration			
+527	167	narration			
+527	168	narration			
+527	169	narration			
+527	170	narration			
+527	171	narration			
+527	172	dialogue	woman	female	adult
+527	173	dialogue	woman	female	adult
+527	174	dialogue	Dancer	female	young adult
+527	175	dialogue	Dancer	female	young adult
+527	182	dialogue	Champion	male	adult
+528	0	dialogue	Team Skull Grunt	male	young adult
+528	1	dialogue	Team Skull Grunt	male	young adult
+528	4	dialogue	Team Skull Grunt	male	young adult
+528	8	dialogue	Team Skull Grunt	male	young adult
+528	9	dialogue	Team Skull Grunt	male	young adult
+528	10	dialogue	Team Skull Grunt	male	young adult
+528	12	dialogue	Team Skull Grunt	male	young adult
+529	0	dialogue	delivery person	male	adult
+529	1	dialogue	delivery person	male	adult
+529	2	dialogue	delivery person	male	adult
+529	3	dialogue	delivery person	male	adult
+530	0	dialogue	hair stylist		adult
+530	1	dialogue	hair stylist		adult
+530	2	dialogue	hair stylist		adult
+530	3	dialogue	hair stylist		adult
+530	4	dialogue	hair stylist		adult
+530	5	dialogue	hair stylist		adult
+530	6	dialogue	hair stylist		adult
+531	11	sign			
+531	12	sign			
+531	13	sign			
+531	14	sign			
+531	22	sign			
+531	23	sign			
+531	24	sign			
+531	25	sign			
+531	26	sign			
+531	27	sign			
+534	3	dialogue	Veteran	male	older adult
+534	5	dialogue	Veteran	male	older adult
+534	6	dialogue	Veteran	male	older adult
+534	7	dialogue	Veteran	male	older adult
+534	9	dialogue	Veteran	male	older adult
+534	11	dialogue	Veteran	male	older adult
+534	12	dialogue	Veteran	male	older adult
+534	13	dialogue	Veteran	male	older adult
+534	14	dialogue	Veteran	male	older adult
+534	15	dialogue	Veteran	male	older adult
+534	16	dialogue	Veteran	male	older adult
+534	18	dialogue	Veteran	male	older adult
+534	19	dialogue	Veteran	male	older adult
+534	20	dialogue	Veteran	male	older adult
+534	21	dialogue	Veteran	male	older adult
+534	22	dialogue	Veteran	male	older adult
+534	23	dialogue	Veteran	male	older adult
+534	24	dialogue	Veteran	male	older adult
+534	25	dialogue	Veteran	male	older adult
+534	27	choice			
+534	28	choice			
+535	0	dialogue	Guzma's mother	female	older adult
+535	3	dialogue	Guzma's mother	female	older adult
+535	4	dialogue	Guzma's mother	female	older adult
+535	5	dialogue	Guzma's mother	female	older adult
+535	6	dialogue	Guzma's mother	female	older adult
+535	7	dialogue	Guzma's mother	female	older adult
+537	0	dialogue	Pokémon		
+537	5	dialogue	Pokémon		
+537	7	dialogue	Pokémon		
+537	11	dialogue	Pokémon		
+537	13	dialogue	Pokémon		
+537	16	dialogue	Pokémon		
+539	0	dialogue	Hidden Maiden	female	young adult
+539	1	dialogue	Hidden Maiden	female	young adult
+539	2	dialogue	Hidden Maiden	female	young adult
+539	3	dialogue	Hidden Maiden	female	young adult
+539	4	dialogue	Hidden Maiden	female	young adult
+539	5	dialogue	Hidden Maiden	female	young adult
+539	6	dialogue	Hidden Maiden	female	young adult
+539	9	dialogue	Hidden Maiden	female	young adult
+539	10	dialogue	Hidden Maiden	female	young adult
+539	11	dialogue	Hidden Maiden	female	young adult
+539	12	dialogue	Hidden Maiden	female	young adult
+539	13	dialogue	Hidden Maiden	female	young adult
+539	14	dialogue	Hidden Maiden	female	young adult
+539	15	dialogue	Hidden Maiden	female	young adult
+539	16	dialogue	Hidden Maiden	female	young adult
+539	17	dialogue	Hidden Maiden	female	young adult
+539	18	dialogue	Hidden Maiden	female	young adult
+539	19	dialogue	Hidden Maiden	female	young adult
+539	20	dialogue	Hidden Maiden	female	young adult
+539	21	dialogue	Hidden Maiden	female	young adult
+539	22	dialogue	Hidden Maiden	female	young adult
+539	23	dialogue	Hidden Maiden	female	young adult
+541	0	dialogue	Hypno		
+541	6	dialogue	Hypno		
+541	7	dialogue	Hypno		
+541	8	dialogue	Hypno		
+541	9	dialogue	Hypno		
+541	11	dialogue	Hypno		
+541	12	dialogue	Hypno		
+541	13	dialogue	Hypno		
+541	14	dialogue	Hypno		
+542	0	dialogue	nursery worker	female	adult
+542	1	dialogue	nursery worker	female	adult
+542	2	dialogue	nursery worker	female	adult
+542	3	dialogue	nursery worker	female	adult
+542	4	dialogue	nursery worker	female	adult
+542	5	dialogue	nursery worker	female	adult
+542	6	dialogue	nursery worker	female	adult
+542	7	dialogue	nursery worker	female	adult
+543	2	dialogue	Machamp		
+543	8	dialogue	Golfer	female	adult
+543	9	dialogue	Golfer	female	adult
+543	10	dialogue	Golfer	female	adult
+543	11	dialogue	caddy	male	adult
+543	12	dialogue	caddy	male	adult
+543	13	dialogue	caddy	male	adult
+543	14	dialogue	Machamp		
+544	1	dialogue	Pelipper		
+544	3	dialogue	Pelipper		
+544	6	dialogue	Pelipper		
+544	8	dialogue	Pelipper		
+544	13	dialogue	Pelipper		
+544	16	dialogue	Pelipper		
+546	0	dialogue	Weather Class teacher	female	adult
+546	1	dialogue	Weather Class teacher	female	adult
+546	2	dialogue	Weather Class teacher	female	adult
+546	3	dialogue	Weather Class teacher	female	adult
+546	4	dialogue	Weather Class teacher	female	adult
+546	5	dialogue	Weather Class teacher	female	adult
+546	6	dialogue	Weather Class teacher	female	adult
+546	7	dialogue	Weather Class teacher	female	adult
+546	8	dialogue	Weather Class teacher	female	adult
+546	9	dialogue	Weather Class teacher	female	adult
+546	10	dialogue	Weather Class teacher	female	adult
+546	11	dialogue	Weather Class teacher	female	adult
+546	12	dialogue	Weather Class teacher	female	adult
+546	13	dialogue	Weather Class teacher	female	adult
+546	14	dialogue	Weather Class teacher	female	adult
+546	15	dialogue	Weather Class teacher	female	adult
+547	6	dialogue	food vendor	male	adult
+547	7	dialogue	food vendor	male	adult
+547	8	dialogue	food vendor	male	adult
+547	10	dialogue	food vendor	male	adult
+547	11	dialogue	food vendor	male	adult
+547	12	dialogue	food vendor	male	adult
+547	13	dialogue	food vendor	male	adult
+547	14	dialogue	food vendor	male	adult
+547	15	dialogue	food vendor	male	adult
+547	16	dialogue	food vendor	male	adult
+547	18	dialogue	food vendor	male	adult
+547	20	dialogue	food vendor	male	adult
+547	21	dialogue	food vendor	male	adult
+548	15	dialogue	Veteran	male	older adult
+548	16	dialogue	Veteran	male	older adult
+548	18	dialogue	Veteran	male	older adult
+548	19	dialogue	Veteran	male	older adult
+548	20	dialogue	Veteran	male	older adult
+548	21	dialogue	Veteran	male	older adult
+548	22	dialogue	Veteran	male	older adult
+548	23	dialogue	Veteran	male	older adult
+548	27	choice			
+548	28	choice			
+548	58	dialogue	Linnea	female	older adult
+548	61	dialogue	Linnea	female	older adult
+548	62	dialogue	Linnea	female	older adult
+550	0	dialogue	Aether Foundation staff	female	adult
+550	1	dialogue	Aether Foundation staff	female	adult
+550	2	dialogue	Aether Foundation staff	female	adult
+550	3	dialogue	Aether Foundation staff	female	adult
+550	4	dialogue	Aether Foundation staff	female	adult
+550	5	dialogue	Aether Foundation staff	female	adult
+550	6	dialogue	Aether Foundation staff	female	adult
+550	7	dialogue	Aether Foundation staff	female	adult
+550	8	dialogue	Aether Foundation staff	female	adult
+550	9	dialogue	Aether Foundation staff	female	adult
+552	0	dialogue	Tauros		
+552	11	dialogue	Miltank		
+552	14	dialogue	Miltank		
+552	15	dialogue	Tauros		
+552	16	dialogue	Miltank		
+552	17	dialogue	Tauros		
+552	25	dialogue	Tauros		
+552	26	dialogue	Miltank		
+552	27	dialogue	Tauros		
+552	30	dialogue	Miltank		
+552	33	dialogue	Tauros		
+552	34	dialogue	Pokémon Breeder	male	adult
+552	35	dialogue	Miltank		
+553	0	dialogue	Corsola		
+553	1	dialogue	Corsola		
+555	0	dialogue	restaurant waitress	female	adult
+555	1	choice			
+555	3	dialogue	restaurant waitress	female	adult
+555	5	choice			
+555	6	choice			
+555	7	choice			
+555	9	dialogue	restaurant waitress	female	adult
+555	11	dialogue	kitchen staff	male	adult
+555	12	dialogue	kitchen staff	male	adult
+555	13	dialogue	restaurant waitress	female	adult
+555	14	choice			
+555	15	choice			
+555	16	dialogue	kitchen staff	male	adult
+555	18	dialogue	restaurant waitress	female	adult
+555	20	dialogue	restaurant waitress	female	adult
+555	21	dialogue	restaurant waitress	female	adult
+555	22	dialogue	player		
+555	23	dialogue	player		
+555	24	dialogue	player		
+555	26	dialogue	player		
+555	27	dialogue	player		
+555	28	dialogue	player		
+555	30	dialogue	restaurant waitress	female	adult
+555	31	dialogue	restaurant waitress	female	adult
+555	32	dialogue	restaurant waitress	female	adult
+555	35	dialogue	restaurant waitress	female	adult
+555	36	dialogue	kaiseki chef	male	adult
+555	37	choice			
+555	38	choice			
+555	39	dialogue	kaiseki chef	male	adult
+555	40	choice			
+555	41	choice			
+555	42	choice			
+555	43	choice			
+555	44	choice			
+555	45	dialogue	kaiseki chef	male	adult
+555	46	dialogue	kaiseki chef	male	adult
+555	47	dialogue	kaiseki chef	male	adult
+555	48	dialogue	kaiseki chef	male	adult
+555	49	dialogue	kaiseki chef	male	adult
+555	50	choice			
+555	51	choice			
+555	52	dialogue	kaiseki chef	male	adult
+555	54	dialogue	kaiseki chef	male	adult
+555	56	dialogue	kaiseki chef	male	adult
+555	57	dialogue	kaiseki chef	male	adult
+555	58	dialogue	player		
+555	59	dialogue	player		
+555	60	dialogue	player		
+555	62	dialogue	player		
+555	63	dialogue	player		
+555	64	dialogue	player		
+555	66	dialogue	kaiseki chef	male	adult
+555	67	dialogue	kaiseki chef	male	adult
+555	68	dialogue	kaiseki chef	male	adult
+555	71	dialogue	kaiseki chef	male	adult
+555	72	dialogue	noodle shop staff	male	adult
+555	73	choice			
+555	74	choice			
+555	75	dialogue	noodle shop staff	male	adult
+555	76	choice			
+555	77	choice			
+555	78	choice			
+555	79	choice			
+555	80	choice			
+555	81	dialogue	noodle shop staff	male	adult
+555	82	dialogue	noodle shop staff	male	adult
+555	83	dialogue	noodle shop staff	male	adult
+555	84	dialogue	noodle shop staff	male	adult
+555	85	dialogue	noodle shop staff	male	adult
+555	86	choice			
+555	87	choice			
+555	88	dialogue	noodle shop staff	male	adult
+555	90	dialogue	noodle shop staff	male	adult
+555	92	dialogue	noodle shop staff	male	adult
+555	93	dialogue	noodle shop staff	male	adult
+555	94	dialogue	player		
+555	95	dialogue	player		
+555	96	dialogue	player		
+555	98	dialogue	player		
+555	99	dialogue	player		
+555	100	dialogue	player		
+555	102	dialogue	noodle shop staff	male	adult
+555	103	dialogue	noodle shop staff	male	adult
+555	104	dialogue	noodle shop staff	male	adult
+555	107	dialogue	noodle shop staff	male	adult
+556	0	dialogue	police partner Pokémon		
+556	1	dialogue	police officer	male	adult
+556	2	dialogue	police partner Pokémon		
+556	3	dialogue	police officer	male	adult
+556	4	dialogue	police officer	male	adult
+556	5	dialogue	police partner Pokémon		
+556	6	dialogue	police officer	male	adult
+556	7	dialogue	police officer	male	adult
+556	8	dialogue	police officer	male	adult
+556	9	dialogue	police officer	male	adult
+556	10	dialogue	police officer	male	adult
+556	11	dialogue	police officer	male	adult
+557	12	dialogue	man	male	adult
+558	1	dialogue	Gester	male	adult
+558	4	dialogue	Gester	male	adult
+558	5	dialogue	Gester	male	adult
+558	6	dialogue	Gester	male	adult
+558	7	choice			
+558	8	choice			
+558	9	dialogue	Gester	male	adult
+558	10	dialogue	Gester	male	adult
+558	11	dialogue	Gester	male	adult
+558	13	dialogue	Gester	male	adult
+558	14	dialogue	Gester	male	adult
+558	18	dialogue	Gester	male	adult
+558	19	dialogue	Gester	male	adult
+558	20	dialogue	Gester	male	adult
+558	21	dialogue	Gester	male	adult
+558	22	choice			
+558	23	choice			
+558	24	choice			
+558	25	choice			
+558	26	choice			
+558	27	choice			
+558	28	choice			
+558	29	choice			
+558	30	choice			
+558	32	dialogue	Gester	male	adult
+558	33	dialogue	Gester	male	adult
+558	34	dialogue	Gester	male	adult
+558	35	dialogue	Gester	male	adult
+558	36	dialogue	Gester	male	adult
+558	37	dialogue	Gester	male	adult
+558	38	dialogue	Gester	male	adult
+558	39	dialogue	Gester	male	adult
+558	40	dialogue	Gester	male	adult
+558	41	dialogue	Gester	male	adult
+558	42	dialogue	Gester	male	adult
+558	43	narration			
+558	44	narration			
+558	45	narration			
+558	46	narration			
+558	47	narration			
+558	48	narration			
+558	49	narration			
+558	50	dialogue	Gester	male	adult
+558	51	dialogue	Gester	male	adult
+558	52	dialogue	Gester	male	adult
+558	53	dialogue	Gester	male	adult
+558	54	dialogue	Gester	male	adult
+558	55	dialogue	Gester	male	adult
+558	56	dialogue	Gester	male	adult
+558	57	dialogue	Gester	male	adult
+558	58	dialogue	Gester	male	adult
+558	59	choice			
+558	60	choice			
+558	61	choice			
+558	62	choice			
+558	63	choice			
+558	64	choice			
+558	65	choice			
+558	66	choice			
+558	67	choice			
+558	68	dialogue	Gester	male	adult
+558	69	dialogue	Gester	male	adult
+558	70	dialogue	Gester	male	adult
+558	71	dialogue	Gester	male	adult
+559	1	choice			
+559	2	choice			
+559	3	choice			
+559	4	choice			
+559	21	choice			
+559	22	choice			
+559	26	choice			
+559	27	choice			
+559	28	choice			
+559	29	name			
+559	30	name			
+559	31	name			
+559	32	name			
+559	33	name			
+559	34	name			
+559	35	name			
+559	36	choice			
+559	41	dialogue	Wicke	female	adult
+559	42	dialogue	Wicke	female	adult
+559	43	dialogue	Wicke	female	adult
+559	44	dialogue	Wicke	female	adult
+559	45	dialogue	Wicke	female	adult
+559	46	dialogue	Wicke	female	adult
+559	47	dialogue	Wicke	female	adult
+559	48	dialogue	Wicke	female	adult
+559	49	dialogue	Wicke	female	adult
+559	50	dialogue	Wicke	female	adult
+559	51	dialogue	Wicke	female	adult
+559	52	dialogue	Wicke	female	adult
+559	53	dialogue	Wicke	female	adult
+559	54	dialogue	Wicke	female	adult
+560	1	dialogue	Pokémon		
+561	0	dialogue	Looker	male	adult
+561	1	dialogue	Looker	male	adult
+561	2	choice			
+561	3	choice			
+561	4	dialogue	Looker	male	adult
+561	5	dialogue	Looker	male	adult
+561	6	dialogue	Looker	male	adult
+561	7	dialogue	Looker	male	adult
+561	8	dialogue	Looker	male	adult
+561	9	dialogue	Looker	male	adult
+561	10	dialogue	Looker	male	adult
+561	11	dialogue	Looker	male	adult
+561	12	dialogue	Looker	male	adult
+561	14	dialogue	Anabel	female	young adult
+561	16	choice			
+561	17	choice			
+561	21	choice			
+561	22	choice			
+561	33	choice			
+561	34	choice			
+562	0	dialogue	old woman	female	elderly
+562	1	choice			
+562	3	dialogue	old woman	female	elderly
+562	5	dialogue	old woman	female	elderly
+562	6	dialogue	old woman	female	elderly
+562	7	choice			
+562	9	choice			
+562	11	dialogue	Stufful		
+562	12	dialogue	Stufful		
+562	13	narration			
+562	14	dialogue	old woman	female	elderly
+562	15	dialogue	old woman	female	elderly
+562	16	dialogue	old woman	female	elderly
+562	18	dialogue	beach staff	male	adult
+562	19	choice			
+562	20	choice			
+562	21	dialogue	beach staff	male	adult
+562	22	dialogue	beach staff	male	adult
+562	23	dialogue	beach staff	male	adult
+562	24	dialogue	beach staff	male	adult
+562	25	choice			
+562	26	choice			
+562	27	dialogue	beach staff	male	adult
+562	28	dialogue	beach staff	male	adult
+562	29	choice			
+562	30	choice			
+562	31	narration			
+562	32	dialogue	beach staff	male	adult
+562	33	dialogue	beach staff	male	adult
+562	34	dialogue	beach staff	male	adult
+562	35	dialogue	beach staff	male	adult
+562	36	dialogue	beach staff	male	adult
+562	37	narration			
+562	38	narration			
+562	39	dialogue	beach staff	male	adult
+563	2	choice			
+563	3	choice			
+563	7	dialogue	Nanu	male	older adult
+564	10	choice			
+564	11	choice			
+565	36	dialogue	Nanu	male	older adult
+566	23	choice			
+566	24	choice			
+567	5	choice			
+567	6	choice			
+568	5	choice			
+568	6	choice			
+573	0	dialogue	desert trainer	male	adult
+573	1	dialogue	desert trainer	male	adult
+573	5	dialogue	desert trainer	male	adult
+573	6	dialogue	desert trainer	male	adult
+573	7	dialogue	desert trainer	male	adult
+573	8	dialogue	desert trainer	male	adult
+573	9	dialogue	desert trainer	male	adult
+575	0	dialogue	beach regular	male	adult
+575	1	dialogue	beach regular	male	adult
+575	2	dialogue	beach regular	male	adult
+575	3	dialogue	beach regular	male	adult
+575	4	dialogue	beach regular	male	adult
+575	5	dialogue	beach regular	male	adult
+575	6	dialogue	beach regular	male	adult
+575	7	dialogue	beach regular	male	adult
+575	8	dialogue	beach regular	male	adult
+575	9	dialogue	beach regular	male	adult
+575	10	dialogue	beach regular	male	adult
+575	11	dialogue	beach regular	male	adult
+575	12	dialogue	beach regular	male	adult
+575	13	dialogue	beach regular	male	adult
+575	14	dialogue	Pyukumuku		
+575	15	narration			
+575	16	narration			
+575	17	dialogue	beach regular	male	adult
+575	18	dialogue	beach regular	male	adult
+575	19	narration			
+576	0	dialogue	Magnemite		
+576	2	dialogue	Magnemite		
+576	6	dialogue	Magnemite		
+576	7	dialogue	Magnemite		
+576	9	dialogue	Magnemite		
+577	0	dialogue	ride show staff	female	adult
+577	2	dialogue	ride show staff	female	adult
+577	6	dialogue	Tauros		
+577	7	dialogue	middle-aged man	male	older adult
+577	10	dialogue	middle-aged man	male	older adult
+577	12	dialogue	Pokémon		
+577	13	dialogue	middle-aged man	male	older adult
+577	20	dialogue	middle-aged man	male	older adult
+577	22	dialogue	Machamp		
+577	23	dialogue	middle-aged man	male	older adult
+577	25	dialogue	middle-aged man	male	older adult
+577	26	dialogue	ride show staff	female	adult
+577	27	dialogue	ride show staff	female	adult
+577	28	dialogue	ride show staff	female	adult
+578	10	dialogue	Grimer		
+578	12	dialogue	Grimer		
+578	29	dialogue	Grimer		
+578	30	dialogue	Grimer		
+578	33	dialogue	Grimer		
+578	35	dialogue	Grimer		
+578	38	dialogue	Grimer		
+579	8	dialogue	Pokémon		
+580	0	dialogue	rich lady	female	adult
+580	1	dialogue	rich lady	female	adult
+580	2	dialogue	rich lady	female	adult
+580	3	dialogue	rich lady	female	adult
+580	4	dialogue	rich lady	female	adult
+580	5	dialogue	rich lady	female	adult
+580	7	dialogue	Rockruff		
+580	8	dialogue	boutique owner	male	older adult
+580	10	dialogue	boutique owner	male	older adult
+580	11	dialogue	Rockruff		
+580	12	dialogue	rich lady	female	adult
+580	13	dialogue	Rockruff		
+580	15	dialogue	rich lady	female	adult
+580	16	dialogue	boutique owner	male	older adult
+580	18	dialogue	Rockruff		
+580	19	dialogue	rich lady	female	adult
+580	20	dialogue	Rockruff		
+580	21	dialogue	rich lady	female	adult
+580	22	dialogue	rich lady	female	adult
+580	23	dialogue	rich lady	female	adult
+580	24	dialogue	Rockruff		
+580	25	dialogue	boutique owner	male	older adult
+580	27	dialogue	Ilima	male	teen
+581	0	dialogue	company president	male	older adult
+581	1	dialogue	Grimer		
+581	2	dialogue	young janitor	male	young adult
+581	3	dialogue	company president	male	older adult
+581	4	dialogue	young janitor	male	young adult
+581	5	dialogue	young janitor	male	young adult
+581	6	dialogue	young janitor	male	young adult
+581	7	dialogue	young janitor	male	young adult
+581	8	dialogue	young janitor	male	young adult
+581	9	dialogue	company president	male	older adult
+581	10	dialogue	company president	male	older adult
+581	13	dialogue	company president	male	older adult
+581	14	dialogue	company president	male	older adult
+581	15	dialogue	company president	male	older adult
+581	16	dialogue	young janitor	male	young adult
+581	17	dialogue	company president	male	older adult
+581	18	dialogue	young janitor	male	young adult
+581	19	dialogue	company president	male	older adult
+581	20	dialogue	young janitor	male	young adult
+581	21	dialogue	young janitor	male	young adult
+581	22	dialogue	young janitor	male	young adult
+581	25	dialogue	company president	male	older adult
+581	26	dialogue	young janitor	male	young adult
+581	27	dialogue	company president	male	older adult
+581	28	dialogue	company president	male	older adult
+581	29	dialogue	young janitor	male	young adult
+581	30	dialogue	company president	male	older adult
+581	31	dialogue	young janitor	male	young adult
+581	32	dialogue	company president	male	older adult
+581	33	dialogue	young janitor	male	young adult
+581	34	dialogue	company president	male	older adult
+581	35	dialogue	young janitor	male	young adult
+581	36	dialogue	company president	male	older adult
+581	37	dialogue	company president	male	older adult
+581	38	dialogue	young janitor	male	young adult
+581	39	dialogue	company president	male	older adult
+581	40	dialogue	young janitor	male	young adult
+581	41	dialogue	Grimer		
+583	1	dialogue	Rotom Pokédex	male	
+583	2	dialogue	Rotom Pokédex	male	
+583	3	dialogue	Rotom Pokédex	male	
+583	4	dialogue	Rotom Pokédex	male	
+586	0	dialogue	cook	male	adult
+586	1	dialogue	cook	male	adult
+586	2	dialogue	cook	male	adult
+587	0	dialogue	receptionist	female	adult
+587	1	dialogue	receptionist	female	adult
+587	3	name			
+587	5	name			
+587	6	name			
+587	7	choice			
+587	8	dialogue	receptionist	female	adult
+587	9	dialogue	receptionist	female	adult
+587	11	choice			
+587	12	dialogue	receptionist	female	adult
+587	13	dialogue	receptionist	female	adult
+587	14	dialogue	receptionist	female	adult
+587	15	dialogue	receptionist	female	adult
+587	16	dialogue	receptionist	female	adult
+587	18	dialogue	receptionist	female	adult
+587	19	dialogue	receptionist	female	adult
+587	24	name			
+587	25	name			
+587	26	name			
+587	27	name			
+587	28	name			
+587	29	name			
+587	30	name			
+587	31	name			
+587	32	choice			
+587	33	dialogue	Gentleman	male	older adult
+587	34	choice			
+587	35	choice			
+587	36	dialogue	Gentleman	male	older adult
+587	37	dialogue	Gentleman	male	older adult
+587	38	dialogue	Gentleman	male	older adult
+587	39	dialogue	Gentleman	male	older adult
+587	40	dialogue	Gentleman	male	older adult
+588	0	dialogue	shop assistant	female	adult
+588	1	dialogue	shop assistant	female	adult
+588	2	dialogue	shop assistant	female	adult
+589	1	dialogue	Murkrow		
+589	4	dialogue	Murkrow		
+589	12	dialogue	Murkrow		
+589	16	dialogue	Murkrow		
+590	4	dialogue	Delibird		
+590	6	dialogue	Delibird		
+590	8	dialogue	Delibird		
+590	10	dialogue	Delibird		
+590	11	dialogue	Delibird		
+590	15	dialogue	Delibird		
+590	17	dialogue	Delibird		
+592	0	dialogue	Roost Trainer	male	adult
+592	1	dialogue	Roost Trainer	male	adult
+592	3	dialogue	Roost Trainer	male	adult
+592	5	choice			
+592	6	dialogue	Roost Trainer	male	adult
+592	7	dialogue	Roost Trainer	male	adult
+592	9	dialogue	Roost Trainer	male	adult
+592	11	dialogue	Roost Trainer	male	adult
+592	12	dialogue	Sky Drop Trainer	female	adult
+592	13	dialogue	Sky Drop Trainer	female	adult
+592	14	dialogue	Sky Drop Trainer	female	adult
+592	15	dialogue	Sky Drop Trainer	female	adult
+592	16	choice			
+592	18	dialogue	Sky Drop Trainer	female	adult
+592	19	dialogue	Sky Drop Trainer	female	adult
+592	20	dialogue	Sky Drop Trainer	female	adult
+592	21	dialogue	Sky Drop Trainer	female	adult
+592	22	dialogue	Sky Drop Trainer	female	adult
+592	23	dialogue	Sky Drop Trainer	female	adult
+592	24	dialogue	Z-Power Trainer	male	adult
+592	25	dialogue	Z-Power Trainer	male	adult
+592	26	dialogue	Z-Power Trainer	male	adult
+592	27	dialogue	Z-Power Trainer	male	adult
+592	28	choice			
+592	29	choice			
+592	30	dialogue	Z-Power Trainer	male	adult
+592	31	dialogue	Z-Power Trainer	male	adult
+592	32	dialogue	Z-Power Trainer	male	adult
+592	33	dialogue	Z-Power Trainer	male	adult
+592	34	dialogue	Z-Power Trainer	male	adult
+592	35	dialogue	Z-Power Trainer	male	adult
+592	36	dialogue	Route 12 Kahuna	female	adult
+592	37	dialogue	Route 12 Kahuna	female	adult
+592	38	dialogue	Route 12 Kahuna	female	adult
+592	39	dialogue	Route 12 Kahuna	female	adult
+592	40	choice			
+592	41	choice			
+592	42	dialogue	Route 12 Kahuna	female	adult
+592	43	dialogue	Route 12 Kahuna	female	adult
+592	44	dialogue	Route 12 Kahuna	female	adult
+592	45	dialogue	Route 12 Kahuna	female	adult
+592	46	dialogue	Route 12 Kahuna	female	adult
+592	47	dialogue	Route 12 Kahuna	female	adult
+592	48	dialogue	Golfer	male	adult
+592	49	dialogue	Golfer	male	adult
+592	50	dialogue	Golfer	male	adult
+592	51	dialogue	Golfer	male	adult
+592	52	choice			
+592	53	choice			
+592	54	dialogue	Golfer	male	adult
+592	55	dialogue	Golfer	male	adult
+592	56	dialogue	Golfer	male	adult
+592	57	dialogue	Golfer	male	adult
+592	58	dialogue	Golfer	male	adult
+592	59	dialogue	Golfer	male	adult
+592	60	dialogue	Dancer Trainer	female	adult
+592	61	dialogue	Dancer Trainer	female	adult
+592	62	dialogue	Dancer Trainer	female	adult
+592	63	dialogue	Dancer Trainer	female	adult
+592	64	choice			
+592	65	choice			
+592	66	dialogue	Dancer Trainer	female	adult
+592	67	dialogue	Dancer Trainer	female	adult
+592	68	dialogue	Dancer Trainer	female	adult
+592	69	dialogue	Dancer Trainer	female	adult
+592	70	dialogue	Dancer Trainer	female	adult
+592	71	dialogue	Dancer Trainer	female	adult
+592	76	choice			
+592	77	choice			
+592	84	dialogue	Trial Guide	male	adult
+592	85	dialogue	Trial Guide	male	adult
+592	86	dialogue	Trial Guide	male	adult
+592	87	dialogue	Trial Guide	male	adult
+592	88	choice			
+592	89	choice			
+592	90	dialogue	Trial Guide	male	adult
+592	91	dialogue	Trial Guide	male	adult
+592	92	dialogue	Trial Guide	male	adult
+592	93	dialogue	Trial Guide	male	adult
+592	94	dialogue	Trial Guide	male	adult
+592	95	dialogue	Trial Guide	male	older adult
+592	96	dialogue	Trial Guide (Route 15)	female	adult
+592	97	dialogue	Trial Guide (Route 15)	female	adult
+592	98	dialogue	Trial Guide (Route 15)	female	adult
+592	99	dialogue	Trial Guide (Route 15)	female	adult
+592	100	choice			
+592	101	choice			
+592	102	dialogue	Trial Guide (Route 15)	female	adult
+592	103	dialogue	Trial Guide (Route 15)	female	adult
+592	104	dialogue	Trial Guide (Route 15)	female	adult
+592	105	dialogue	Trial Guide (Route 15)	female	adult
+592	106	dialogue	Trial Guide (Route 15)	female	adult
+592	107	dialogue	Trial Guide (Route 15)	female	adult
+592	108	dialogue	Number One Trainer	male	young adult
+592	109	dialogue	Number One Trainer	male	young adult
+592	110	dialogue	Number One Trainer	male	young adult
+592	111	dialogue	Number One Trainer	male	young adult
+592	112	choice			
+592	113	choice			
+592	114	dialogue	Number One Trainer	male	young adult
+592	115	dialogue	Number One Trainer	male	young adult
+592	116	dialogue	Number One Trainer	male	young adult
+592	117	dialogue	Number One Trainer	male	young adult
+592	118	dialogue	Number One Trainer	male	young adult
+592	119	dialogue	Number One Trainer	male	young adult
+592	120	dialogue	Mount Hokulani Trainer	male	older adult
+592	121	dialogue	Mount Hokulani Trainer	male	older adult
+592	122	dialogue	Mount Hokulani Trainer	male	older adult
+592	123	dialogue	Mount Hokulani Trainer	male	older adult
+592	124	choice			
+592	125	choice			
+592	126	dialogue	Mount Hokulani Trainer	male	older adult
+592	127	dialogue	Mount Hokulani Trainer	male	older adult
+592	128	dialogue	Mount Hokulani Trainer	male	older adult
+592	129	dialogue	Mount Hokulani Trainer	male	older adult
+592	130	dialogue	Mount Hokulani Trainer	male	older adult
+592	131	dialogue	Mount Hokulani Trainer	male	older adult
+594	9	narration			
+595	12	dialogue	Wicke	female	adult
+595	20	dialogue	Trainer		
+595	21	dialogue	Trainer		
+602	2	dialogue	Team Skull Grunt	male	teen
+602	3	dialogue	Team Skull Grunt	male	teen
+605	9	choice			
+607	7	dialogue	Trial Guide (stand-in)		adult
+607	8	dialogue	Trial Guide (stand-in)		adult
+607	9	dialogue	Trial Guide (stand-in)		adult
+607	16	narration			
+607	18	dialogue	Trial Guide (stand-in)		adult
+607	19	dialogue	Trial Guide (stand-in)		adult
+607	20	dialogue	Trial Guide (stand-in)		adult
+607	21	dialogue	Trial Guide (stand-in)		adult
+607	24	dialogue	Trial Guide (stand-in)		adult
+608	2	dialogue	Meowth		
+609	11	dialogue	Trial Guide	female	adult
+609	12	dialogue	Poliwhirl		
+610	0	dialogue	Madame Meowth	female	older adult
+610	1	dialogue	Meowth		
+610	6	dialogue	Meowth		
+610	9	dialogue	Meowth		
+610	22	dialogue	Meowth		
+610	38	dialogue	Meowth		
+610	50	dialogue	Meowth		
+610	56	dialogue	Meowth		
+610	58	dialogue	Meowth		
+610	59	dialogue	Meowth		
+611	4	dialogue	Mudsdale Trainer	female	older adult
+611	6	dialogue	Mudsdale		
+611	8	dialogue	Mudsdale Trainer	female	older adult
+611	9	dialogue	Mudsdale Trainer	female	older adult
+611	10	dialogue	Mudsdale		
+611	11	dialogue	Mudsdale Trainer	female	older adult
+611	12	dialogue	Mudsdale		
+611	13	dialogue	Mudsdale Trainer	female	older adult
+611	14	dialogue	Mudsdale		
+611	15	dialogue	Mudsdale Trainer	female	older adult
+611	16	dialogue	Mudsdale Trainer	female	older adult
+611	17	dialogue	Mudsdale Trainer	female	older adult
+611	18	dialogue	Mudsdale Trainer	female	older adult
+611	19	dialogue	Mudsdale Trainer	female	older adult
+616	0	dialogue	Customer	female	adult
+616	1	dialogue	Customer	female	adult
+616	2	dialogue	Customer	female	adult
+616	3	dialogue	Shopkeeper	male	adult
+616	4	dialogue	Customer	female	adult
+616	5	dialogue	Customer	female	adult
+616	6	dialogue	Clerk	female	adult
+616	9	dialogue	Clerk	female	adult
+616	10	dialogue	Clerk	female	adult
+616	11	dialogue	Clerk	female	adult
+616	12	dialogue	Clerk	female	adult
+616	13	dialogue	Clerk	female	adult
+616	14	dialogue	Clerk	female	adult
+616	15	dialogue	Clerk	female	adult
+618	5	dialogue	Pikachu		
+619	0	dialogue	Onlooker	female	adult
+619	5	dialogue	Rotom Pokédex	male	
+619	6	dialogue	Rotom Pokédex	male	
+619	7	dialogue	Rotom Pokédex		
+619	8	dialogue	Rotom Pokédex		
+619	12	dialogue	Rotom Pokédex		
+619	13	dialogue	Rotom Pokédex		
+619	14	dialogue	Rotom Pokédex	male	
+619	15	dialogue	Rotom Pokédex	male	
+619	17	dialogue	Rotom Pokédex		
+619	22	dialogue	Rotom Pokédex		
+619	28	dialogue	Onlooker	female	adult
+620	0	dialogue	Foundation Employee	female	adult
+620	1	dialogue	Foundation Employee	female	adult
+620	2	dialogue	Foundation Employee	female	adult
+620	3	dialogue	Foundation Employee	female	adult
+620	6	dialogue	Foundation Employee	female	adult
+620	7	dialogue	Foundation Employee	female	adult
+620	8	dialogue	Foundation Employee	female	adult
+620	9	dialogue	Foundation Employee	female	adult
+620	13	dialogue	Pokémon		
+620	22	dialogue	Pokémon		
+621	0	dialogue	Attendant	female	adult
+621	1	dialogue	Attendant	female	adult
+622	18	dialogue	Gentleman	male	older adult
+623	6	dialogue	Bewear		
+623	7	dialogue	Black Belt	male	adult
+623	10	dialogue	Bewear		
+623	14	dialogue	Bewear		
+623	29	dialogue	Bewear		
+624	17	dialogue	Preschooler	male	child
+624	18	dialogue	Preschooler	male	child
+625	1	dialogue	child		child
+625	2	dialogue	child		child
+625	11	dialogue	child		child
+625	16	dialogue	child		child
+630	3	choice			
+630	12	dialogue	trial-goer		child
+630	15	dialogue	trial-goer		child
+630	16	dialogue	trial-goer		child
+630	22	dialogue	trial-goer		child
+630	24	dialogue	trial-goer	male	child
+630	25	narration			
+630	26	dialogue	trial-goer	male	child
+630	28	dialogue	trial-goer		child
+630	30	dialogue	trial-goer		child
+630	31	narration			
+630	32	dialogue	trial-goer	male	child
+630	34	dialogue	trial-goer		child
+630	36	dialogue	trial-goer		child
+630	37	narration			
+630	38	dialogue	trial-goer	female	child
+630	40	dialogue	trial-goer		child
+630	42	dialogue	trial-goer		child
+630	43	narration			
+630	44	dialogue	trial-goer		child
+630	46	dialogue	trial-goer	male	child
+630	48	dialogue	trial-goer	male	child
+630	49	narration			
+630	50	dialogue	trial-goer		child
+630	52	dialogue	trial-goer		child
+630	54	dialogue	trial-goer		child
+630	55	narration			
+630	56	dialogue	trial-goer	female	child
+630	58	dialogue	trial-goer		child
+630	60	dialogue	trial-goer		child
+630	61	narration			
+630	62	dialogue	trial-goer	male	child
+631	6	dialogue	villager		adult
+631	7	dialogue	villager	female	older adult
+631	9	dialogue	villager	male	adult
+631	10	dialogue	villager		young adult
+631	11	dialogue	villager		teen
+631	12	dialogue	villager		child
+631	13	dialogue	villager		adult
+631	14	dialogue	villager		older adult
+631	15	dialogue	villager		adult
+632	0	dialogue	guest		adult
+632	1	dialogue	guest		adult
+632	2	dialogue	guest		adult
+632	3	dialogue	guest		adult
+632	4	dialogue	guest		adult
+632	5	dialogue	guest		adult
+632	6	dialogue	guest		adult
+632	7	dialogue	guest		adult
+632	8	dialogue	guest		adult
+633	1	dialogue	man	male	adult
+633	2	dialogue	man	male	adult
+633	4	dialogue	man	male	adult
+633	7	dialogue	man	male	adult
+633	8	dialogue	man	male	adult
+633	9	dialogue	Stufful		
+633	10	dialogue	man	male	adult
+633	11	dialogue	Stufful		
+633	12	dialogue	man	male	adult
+633	13	dialogue	man	male	adult
+633	14	dialogue	Stufful		
+633	15	dialogue	man	male	adult
+633	16	dialogue	man	male	adult
+633	17	dialogue	man	male	adult
+633	18	dialogue	man	male	adult
+633	20	dialogue	man	male	adult
+633	21	dialogue	Stufful		
+633	22	dialogue	villager		
+633	23	dialogue	villager		
+635	0	dialogue	passerby		adult
+635	3	dialogue	passerby		adult
+635	4	dialogue	passerby		adult
+636	1	dialogue	woman	female	adult
+636	2	dialogue	woman	female	adult
+636	3	dialogue	woman	female	adult
+636	4	dialogue	woman	female	adult
+636	5	dialogue	woman	female	adult
+636	6	dialogue	woman	female	adult
+636	7	dialogue	woman	female	adult
+636	8	dialogue	woman	female	adult
+636	9	dialogue	woman	female	adult
+636	10	dialogue	woman	female	adult
+636	11	dialogue	woman	female	adult
+639	7	dialogue	Sudowoodo		
+639	20	dialogue	Gentleman	male	older adult
+639	21	dialogue	old man	male	elderly
+639	22	dialogue	Sudowoodo		
+639	23	dialogue	old woman	female	elderly
+639	24	dialogue	Gentleman	male	older adult
+639	25	dialogue	old woman	female	elderly
+639	26	dialogue	old man	male	elderly
+639	27	dialogue	Gentleman	male	older adult
+639	28	dialogue	old man	male	elderly
+639	29	dialogue	Gentleman	male	older adult
+640	11	narration			
+640	12	dialogue	Youngster	male	teen
+640	13	dialogue	Youngster	male	teen
+640	15	narration			
+640	16	dialogue	Youngster	male	teen
+640	18	narration			
+640	19	dialogue	Youngster	male	teen
+640	20	dialogue	Youngster	male	teen
+640	21	narration			
+640	22	dialogue	Youngster	male	teen
+640	23	dialogue	Youngster	male	teen
+642	6	dialogue	scientist		adult
+642	7	dialogue	scientist		adult
+642	8	dialogue	scientist		adult
+643	0	dialogue	Lass	female	teen
+643	3	dialogue	Trainer		
+643	13	dialogue	Lass	female	teen
+643	14	dialogue	Lass	female	teen
+643	15	dialogue	Lass	female	teen
+644	0	dialogue	Lass	female	teen
+644	5	dialogue	Dugtrio		
+644	20	dialogue	Lass	female	teen
+645	1	dialogue	Pokémon		
+645	2	dialogue	Pokémon		
+645	8	dialogue	Pokémon		
+645	16	dialogue	Pokémon		
+645	20	dialogue	Pokémon		
+647	8	dialogue	costumed performer		adult
+647	9	dialogue	costumed performer		adult
+647	12	dialogue	Bewear		
+647	14	dialogue	Ace Trainer	female	young adult
+647	15	dialogue	Bewear		
+647	18	dialogue	Bewear		
+647	19	dialogue	Bewear		
+647	20	dialogue	Ace Trainer	female	young adult
+647	24	dialogue	Bewear		
+647	26	dialogue	Bewear		
+647	31	dialogue	Bewear		
+648	8	dialogue	Pokémon		
+648	13	dialogue	Pokémon		
+648	28	dialogue	Pokémon		
+649	0	narration			
+649	1	dialogue	Pokémon		
+649	7	dialogue	Pokémon		
+649	11	dialogue	Pokémon		
+649	13	dialogue	Pokémon		
+649	15	dialogue	Mimikyu		
+649	16	dialogue	Mimikyu		
+649	17	dialogue	Mimikyu		
+649	20	dialogue	Mimikyu expert		adult
+649	21	dialogue	Mimikyu expert		adult
+649	22	dialogue	Mimikyu expert		adult
+649	23	dialogue	Mimikyu expert		adult
+649	24	dialogue	Mimikyu expert		adult
+649	26	dialogue	Mimikyu expert		adult
+649	27	dialogue	Mimikyu expert		adult
+649	30	dialogue	Mimikyu expert		adult
+649	31	dialogue	Mimikyu expert		adult
+649	32	dialogue	Mimikyu expert		adult
+649	33	dialogue	Mimikyu expert		adult
+650	0	dialogue	Rain trainer	male	adult
+650	1	dialogue	Rain trainer	female	adult
+650	2	dialogue	Rain trainer	male	adult
+650	5	dialogue	Rain trainer	female	adult
+650	6	dialogue	Rain trainer	male	adult
+650	7	dialogue	Rain trainer	female	adult
+650	8	dialogue	Rain trainer	male	adult
+650	9	dialogue	Rain trainer	male	adult
+650	10	dialogue	Rain trainer	male	adult
+650	11	dialogue	Rain trainer	female	adult
+652	8	dialogue	Hypno		
+652	10	dialogue	Hypno		
+652	12	dialogue	Hypno		
+652	23	dialogue	Hypno		
+652	24	dialogue	Hypno		
+652	25	dialogue	Hypno		
+652	29	dialogue	Hypno		
+652	30	dialogue	Hypno		
+652	31	dialogue	Hypno		
+652	35	dialogue	Trainer		
+657	1	dialogue	boy	male	child
+657	3	dialogue	boy	male	child
+657	6	dialogue	boy	male	child
+657	7	dialogue	boy	male	child
+657	10	dialogue	boy	male	child
+657	12	dialogue	boy	male	child
+657	14	dialogue	boy	male	child
+657	16	dialogue	boy	male	child
+657	17	dialogue	boy	male	child
+657	19	dialogue	boy	male	child
+657	22	dialogue	boy	male	child
+657	24	dialogue	boy	male	child
+657	26	dialogue	boy	male	child
+657	27	dialogue	boy	male	child
+657	28	dialogue	boy	male	child
+657	29	dialogue	boy	male	child
+657	30	dialogue	boy	male	child
+658	7	dialogue	Slowpoke		
+658	8	dialogue	Starmie		
+658	10	dialogue	Starmie		
+658	17	dialogue	Starmie		
+658	19	dialogue	Starmie		
+658	22	dialogue	Starmie		
+658	28	dialogue	Starmie		
+659	5	dialogue	Pikachu		
+659	6	dialogue	Pikachu		
+659	10	dialogue	Pikachu		
+659	11	dialogue	Pikachu		
+659	12	dialogue	Pikachu		
+660	6	dialogue	Meowth		
+660	8	dialogue	Meowth		
+660	10	dialogue	Meowth		
+660	22	dialogue	Youngster	male	teen
+660	27	dialogue	Meowth		
+660	28	dialogue	Meowth		
+660	29	dialogue	Meowth		
+660	30	dialogue	Meowth		
+660	32	dialogue	Youngster	male	teen
+660	33	dialogue	Youngster	male	teen
+661	0	dialogue	fan girl	female	teen
+661	1	dialogue	fan girl	female	teen
+661	2	dialogue	fan girl	female	teen
+661	3	dialogue	fan girl	female	teen
+661	4	dialogue	fan girl	female	teen
+661	5	dialogue	fan girl	female	teen
+661	6	dialogue	fan girl	female	teen
+661	7	dialogue	fan girl	female	teen
+661	8	dialogue	fan girl	female	teen
+661	9	dialogue	fan girl	female	teen
+661	10	dialogue	fan girl	female	teen
+661	11	dialogue	fan girl	female	teen
+661	12	dialogue	fan girl	female	teen
+661	13	dialogue	fan girl	female	teen
+663	0	dialogue	Miltank		
+664	8	dialogue	man	male	adult
+664	9	dialogue	man	male	adult
+664	10	dialogue	man	male	adult
+664	11	dialogue	man	male	adult
+664	12	dialogue	man	male	adult
+664	13	dialogue	man	male	adult
+664	14	dialogue	man	male	adult
+664	15	dialogue	man	male	adult
+664	16	dialogue	man	male	adult
+664	17	dialogue	man	male	adult
+668	1	dialogue	Pyukumuku		
+668	4	dialogue	Pyukumuku		
+668	6	dialogue	Pyukumuku		
+668	8	dialogue	Pyukumuku		
+668	10	dialogue	Pyukumuku		
+668	14	dialogue	Pyukumuku		
+668	21	dialogue	Pyukumuku		
+668	24	dialogue	Pyukumuku		
+670	11	dialogue	Meowth		
+670	15	dialogue	Meowth		
+670	17	dialogue	Meowth		
+670	21	dialogue	Meowth		
+670	24	dialogue	Meowth		
+670	27	dialogue	Meowth		
+670	32	dialogue	Meowth		
+670	34	dialogue	Meowth		
+670	36	dialogue	passerby	female	adult
+670	37	dialogue	passerby	female	adult
+670	38	dialogue	passerby	male	adult
+670	39	dialogue	passerby		adult
+671	0	dialogue	Vulpix		
+671	1	dialogue	Aether Foundation	female	adult
+671	2	dialogue	Vulpix		
+671	4	dialogue	Aether Foundation	female	adult
+671	5	dialogue	Aether Foundation	female	adult
+671	6	dialogue	Aether Foundation	female	adult
+671	7	dialogue	Aether Foundation	female	adult
+671	8	dialogue	Vulpix		
+671	11	dialogue	Aether Foundation	female	adult
+671	12	dialogue	Aether Foundation	female	adult
+671	13	dialogue	Aether Foundation	female	adult
+671	14	dialogue	Aether Foundation	female	adult
+671	15	dialogue	Aether Foundation	female	adult
+671	20	dialogue	Vulpix		
+671	21	dialogue	Aether Foundation	female	adult
+671	22	dialogue	Vulpix		
+671	23	dialogue	Aether Foundation	female	adult
+671	24	dialogue	Aether Foundation	female	adult
+671	26	dialogue	Aether Foundation	female	adult
+671	29	dialogue	Aether Foundation	female	adult
+671	30	dialogue	Vulpix		
+671	31	dialogue	Aether Foundation	female	adult
+671	35	dialogue	Aether Foundation	female	adult
+671	36	dialogue	Vulpix		
+671	38	dialogue	Aether Foundation	female	adult
+671	39	dialogue	Aether Foundation	female	adult
+671	40	dialogue	Vulpix		
+671	41	dialogue	Aether Foundation	female	adult
+671	44	dialogue	Vulpix		
+671	46	dialogue	Vulpix		
+672	14	dialogue	Team Skull Grunt	male	young adult
+672	15	dialogue	Team Skull Grunt	male	young adult
+672	16	dialogue	Team Skull Grunt	male	young adult
+672	19	dialogue	Team Skull Grunt	male	young adult
+672	22	dialogue	Team Skull Grunt	male	young adult
+672	24	dialogue	Team Skull Grunt	male	young adult
+672	25	dialogue	Team Skull Grunt	male	young adult
+672	26	dialogue	Team Skull Grunt	male	young adult
+672	35	dialogue	Team Skull Grunt	male	young adult
+672	36	dialogue	Team Skull Grunt	male	young adult
+674	1	dialogue	Vulpix		
+674	7	dialogue	Vulpix		
+674	10	dialogue	Vulpix		
+675	3	dialogue	shopkeeper	female	adult
+675	5	dialogue	shopkeeper	female	adult
+675	6	dialogue	shopkeeper	female	adult
+675	7	dialogue	shopkeeper	female	adult
+675	8	dialogue	shopkeeper	female	adult
+675	9	dialogue	shopkeeper	female	adult
+678	18	dialogue	Charjabug		
+679	0	dialogue	Meredith	female	young adult
+679	1	choice			
+679	3	dialogue	Meredith	female	young adult
+679	5	dialogue	Meredith	female	young adult
+679	7	dialogue	Meredith	female	young adult
+679	9	dialogue	Meredith	female	young adult
+679	11	dialogue	Meredith	female	young adult
+679	12	dialogue	Meredith	female	young adult
+679	14	dialogue	Meredith	female	young adult
+679	15	dialogue	Meredith	female	young adult
+679	16	dialogue	Meredith	female	young adult
+679	18	dialogue	Meredith	female	young adult
+679	19	dialogue	Meredith	female	young adult
+679	21	dialogue	Meredith	female	young adult
+679	22	dialogue	Meredith	female	young adult
+679	23	dialogue	Meredith	female	young adult
+679	24	dialogue	Meredith	female	young adult
+679	25	dialogue	Meredith	female	young adult
+679	26	dialogue	Meredith	female	young adult
+679	28	dialogue	Meredith	female	young adult
+679	29	dialogue	Meredith	female	young adult
+680	0	dialogue	old man	male	older adult
+680	1	dialogue	old man	male	older adult
+680	2	dialogue	old man	male	older adult
+680	3	dialogue	old man	male	older adult
+680	4	dialogue	old man	male	older adult
+682	6	dialogue	Comfey		
+682	12	dialogue	Comfey		
+682	14	dialogue	Comfey		
+683	0	dialogue	Bellhop	male	young adult
+683	1	dialogue	Bellhop	male	young adult
+683	4	dialogue	Bellhop	male	young adult
+683	5	dialogue	Bellhop	male	young adult
+683	6	dialogue	Bellhop	male	young adult
+683	8	dialogue	owner		adult
+683	9	dialogue	owner		adult
+683	12	dialogue	Bellhop	male	young adult
+683	13	dialogue	Bellhop	male	young adult
+683	14	dialogue	Bellhop	male	young adult
+683	15	dialogue	Bellhop	male	young adult
+683	16	dialogue	Bellhop	male	young adult
+683	17	dialogue	Bellhop	male	young adult
+683	18	dialogue	Bellhop	male	young adult
+683	19	dialogue	owner		adult
+683	20	dialogue	owner		adult
+683	21	dialogue	Bellhop	male	young adult
+684	22	dialogue	Pokémon		
+684	23	dialogue	Adrian	female	young adult
+684	24	dialogue	Adrian	female	young adult
+684	25	dialogue	Adrian	female	young adult
+684	26	dialogue	Adrian	female	young adult
+684	27	dialogue	Adrian	female	young adult
+684	28	dialogue	Adrian	female	young adult
+684	29	dialogue	Adrian	female	young adult
+684	30	dialogue	Adrian	female	young adult
+684	31	dialogue	Adrian	female	young adult
+684	32	dialogue	Adrian	female	young adult
+684	33	dialogue	Adrian	female	young adult
+684	34	dialogue	Adrian	female	young adult
+684	37	dialogue	Black Belt	male	adult
+685	7	dialogue	Youngster	male	teen
+685	14	dialogue	Preschooler	female	child
+685	15	dialogue	Drifloon		
+685	16	dialogue	Preschooler	female	child
+685	18	dialogue	Preschooler	female	child
+685	19	dialogue	Preschooler	female	child
+685	20	dialogue	Preschooler	female	child
+685	21	dialogue	Preschooler	female	child
+685	30	dialogue	Preschooler	female	child
+685	31	dialogue	Preschooler	female	child
+685	32	dialogue	Preschooler	female	child
+685	33	dialogue	Preschooler	female	child
+685	34	dialogue	Preschooler	female	child
+685	35	dialogue	Preschooler	female	child
+685	36	dialogue	Preschooler	female	child
+685	38	dialogue	Preschooler	female	child
+685	39	dialogue	Preschooler	female	child
+685	40	dialogue	Preschooler	female	child
+685	41	dialogue	Preschooler	female	child
+685	42	dialogue	Preschooler	female	child
+685	43	dialogue	Drifloon		
+685	44	dialogue	Preschooler	female	child
+685	45	dialogue	Preschooler	female	child
+685	46	dialogue	Preschooler	female	child
+685	47	dialogue	Preschooler	female	child
+685	48	dialogue	Preschooler	male	child
+685	49	dialogue	Preschooler	female	child
+685	50	dialogue	Drifloon		
+685	52	dialogue	security officer	male	adult
+685	55	dialogue	security officer	male	adult
+685	58	dialogue	security officer	male	adult
+685	59	dialogue	security officer	male	adult
+685	60	dialogue	security officer	male	adult
+687	22	dialogue	Grimer		
+688	4	dialogue	Slowpoke		
+688	6	dialogue	Slowpoke		
+688	9	dialogue	Slowpoke		
+689	2	narration			
+690	9	narration			
+690	22	dialogue	young man	male	young adult
+691	19	dialogue	Hypno		
+692	3	dialogue	Nainoa	male	young adult
+692	5	dialogue	Nainoa	male	young adult
+692	6	dialogue	Nainoa	male	young adult
+692	7	dialogue	Nainoa	male	young adult
+692	8	dialogue	Nainoa	male	young adult
+692	9	dialogue	Nainoa	male	young adult
+692	10	dialogue	Nainoa	male	young adult
+692	11	dialogue	Nainoa	male	young adult
+692	12	dialogue	Nainoa	male	young adult
+693	9	dialogue	Tapu Bulu		
+693	12	dialogue	Tapu Bulu		
+693	14	dialogue	Tapu Bulu		
+693	16	dialogue	Tapu Bulu		
+695	2	dialogue	Machamp		
+695	4	dialogue	Machamp		
+695	10	dialogue	Machamp		
+696	1	dialogue	middle-aged woman	female	older adult
+696	3	dialogue	middle-aged woman	female	older adult
+696	7	dialogue	middle-aged woman	female	older adult
+696	9	dialogue	middle-aged woman	female	older adult
+696	11	dialogue	middle-aged woman	female	older adult
+696	12	dialogue	middle-aged woman	female	older adult
+697	2	dialogue	Pokémon		
+697	3	dialogue	Pokémon		
+697	4	dialogue	Pokémon		
+697	5	dialogue	Pokémon		
+697	6	dialogue	Pokémon		
+697	7	dialogue	Pokémon		
+697	8	dialogue	Pokémon		
+697	9	dialogue	Pokémon		
+697	10	dialogue	Pokémon		
+698	0	dialogue	Pokémon		
+698	4	dialogue	Pokémon		
+698	11	narration			
+698	12	dialogue	Incineroar		
+698	13	dialogue	Black Belt	male	adult
+698	14	dialogue	Black Belt	male	adult
+698	15	dialogue	Black Belt	male	adult
+698	16	dialogue	Pokémon		
+698	17	dialogue	Machamp		
+698	26	narration			
+698	27	dialogue	Machamp		
+698	28	dialogue	Black Belt	male	adult
+698	29	dialogue	Black Belt	male	adult
+698	30	dialogue	Machamp		
+699	0	dialogue	Pyukumuku		
+699	2	dialogue	middle-aged woman	female	adult
+699	3	dialogue	middle-aged woman	female	adult
+699	4	dialogue	middle-aged woman	female	adult
+699	5	dialogue	middle-aged woman	female	adult
+699	6	dialogue	Pyukumuku		
+699	7	dialogue	middle-aged woman	female	adult
+699	8	dialogue	middle-aged woman	female	adult
+699	9	dialogue	middle-aged woman	female	adult
+699	10	dialogue	Pokémon		
+699	12	dialogue	Pyukumuku		
+699	13	dialogue	middle-aged woman	female	adult
+699	14	dialogue	middle-aged woman	female	adult
+699	15	dialogue	middle-aged woman	female	adult
+699	16	dialogue	middle-aged woman	female	adult
+699	17	dialogue	pyukumuku chucker	male	young adult
+699	18	dialogue	pyukumuku chucker	male	young adult
+699	19	dialogue	Pyukumuku		
+699	20	dialogue	Pokémon		
+701	13	name			
+702	0	dialogue	old man	male	older adult
+702	1	dialogue	old man	male	older adult
+702	2	dialogue	old man	male	older adult
+705	8	dialogue	Pokémon		
+705	9	dialogue	Pokémon		
+705	10	dialogue	Pokémon		
+706	0	dialogue	Sandygast		
+706	1	dialogue	Preschooler	female	child
+706	2	dialogue	Preschooler	female	child
+706	5	dialogue	Sandygast		
+706	7	dialogue	Preschooler	female	child
+706	8	dialogue	Preschooler	female	child
+706	9	dialogue	Preschooler	female	child
+706	10	dialogue	Sandygast		
+706	12	dialogue	Preschooler	female	child
+706	13	dialogue	Preschooler	female	child
+706	15	dialogue	Pokémon		
+707	0	dialogue	woman	female	young adult
+707	1	dialogue	Frillish		
+707	3	dialogue	woman	female	young adult
+707	5	dialogue	woman	female	young adult
+707	9	dialogue	woman	female	young adult
+707	11	dialogue	woman	female	young adult
+707	12	dialogue	man	male	young adult
+707	13	dialogue	Frillish		
+707	14	dialogue	man	male	young adult
+707	15	dialogue	man	male	young adult
+707	16	dialogue	man	male	young adult
+707	19	dialogue	man	male	young adult
+707	20	dialogue	man	male	young adult
+707	21	dialogue	man	male	young adult
+707	22	dialogue	man	male	young adult
+708	1	dialogue	Pikachu		
+708	6	dialogue	Pikachu		
+708	12	dialogue	Pikachu		
+708	14	dialogue	Pikachu		
+708	18	dialogue	Pikachu		
+708	21	dialogue	Pikachu		
+709	0	dialogue	onlooker		adult
+709	1	dialogue	onlooker		adult
+709	2	dialogue	onlooker		adult
+709	3	dialogue	onlooker		adult
+709	4	dialogue	onlooker		adult
+710	0	dialogue	shopkeeper	male	adult
+710	1	dialogue	Ditto		
+710	2	dialogue	Ditto		
+710	3	dialogue	shopkeeper	male	adult
+710	4	dialogue	shopkeeper	male	adult
+710	5	dialogue	investigator	male	adult
+710	6	dialogue	investigator	male	adult
+710	7	dialogue	shopkeeper	male	adult
+710	8	dialogue	shopkeeper	male	adult
+710	9	dialogue	shopkeeper	male	adult
+710	10	dialogue	shopkeeper	male	adult
+710	11	dialogue	investigator	male	adult
+710	12	dialogue	investigator	male	adult
+710	13	dialogue	investigator	male	adult
+710	14	dialogue	investigator	male	adult
+710	15	dialogue	investigator	male	adult
+710	16	dialogue	investigator	male	adult
+710	17	dialogue	investigator	male	adult
+710	20	dialogue	herb seller	male	adult
+710	22	dialogue	investigator	male	adult
+710	23	dialogue	investigator	male	adult
+710	24	dialogue	investigator	male	adult
+710	25	dialogue	Ditto		
+710	27	dialogue	restaurant owner	male	adult
+710	28	dialogue	restaurant owner	male	adult
+710	29	dialogue	investigator	male	adult
+710	30	dialogue	investigator	male	adult
+710	31	dialogue	investigator	male	adult
+710	34	dialogue	Dancer	female	young adult
+710	36	dialogue	investigator	male	adult
+710	37	dialogue	investigator	male	adult
+710	38	dialogue	investigator	male	adult
+710	41	dialogue	investigator	male	adult
+710	42	dialogue	investigator	male	adult
+710	43	dialogue	investigator	male	adult
+710	44	dialogue	investigator	male	adult
+710	45	dialogue	investigator	male	adult
+710	46	dialogue	investigator	male	adult
+710	47	dialogue	investigator	male	adult
+710	48	dialogue	investigator	male	adult
+710	49	dialogue	investigator	male	adult
+710	50	dialogue	investigator	male	adult
+710	51	dialogue	investigator	male	adult
+710	52	dialogue	Ditto		
+710	57	dialogue	Ditto		
+711	5	choice			
+714	8	dialogue	Ilima	male	teen
+714	11	choice			
+714	12	choice			
+714	20	dialogue	Rotom Pokédex		
+714	24	narration			
+720	0	dialogue	Bellossom		
+720	1	dialogue	Pokémon		
+720	2	dialogue	Bellossom		
+720	3	dialogue	Pokémon		
+720	4	dialogue	Bellossom		
+720	6	dialogue	Bellossom		
+720	7	dialogue	Pokémon		
+723	0	dialogue	Pikachu		
+723	2	dialogue	Pikachu		
+723	3	dialogue	Pikachu		
+723	4	dialogue	Pikachu		
+723	5	dialogue	Pikachu		
+723	6	dialogue	Pikachu		
+723	7	dialogue	Pikachu		
+723	44	dialogue	Trial Guide	female	adult
+723	84	dialogue	delivery person		adult
+723	85	dialogue	delivery person		adult
+723	86	dialogue	delivery person		adult
+723	88	dialogue	Pikachu		
+723	90	dialogue	Pikachu		
+723	93	dialogue	Pikachu		
+723	95	dialogue	Trial Guide	female	adult
+727	3	choice			
+728	3	dialogue	Solgaleo		
+728	7	dialogue	Solgaleo		
+728	8	dialogue	Lunala		
+731	0	dialogue	Rotom Pokédex		
+731	1	dialogue	Rotom Pokédex		
+731	2	dialogue	Rotom Pokédex		
+731	3	dialogue	Rotom Pokédex		
+731	4	dialogue	Rotom Pokédex		
+731	5	dialogue	Rotom Pokédex		
+735	0	dialogue	passerby		
+735	1	dialogue	passerby		
+735	2	dialogue	passerby		
+735	3	dialogue	passerby		
+735	4	dialogue	passerby		
+735	5	dialogue	passerby		
+735	6	dialogue	passerby		
+735	7	dialogue	passerby		
+735	8	dialogue	passerby		
+735	9	dialogue	passerby		
+735	10	dialogue	passerby		
+735	11	dialogue	passerby		
+735	12	dialogue	passerby		
+735	13	dialogue	passerby		
+735	14	dialogue	passerby		
+735	15	dialogue	passerby		
+735	16	dialogue	passerby		
+735	17	dialogue	passerby		
+735	18	dialogue	passerby		
+735	19	dialogue	passerby		
+735	20	dialogue	passerby		
+735	21	dialogue	passerby		
+735	22	dialogue	passerby		
+735	23	dialogue	passerby		
+735	24	dialogue	passerby		
+735	25	dialogue	passerby		
+735	26	dialogue	passerby		
+735	27	dialogue	passerby		
+737	0	dialogue	Mantine Surf announcer		adult
+737	1	dialogue	Photo Club member	female	young adult
+737	2	dialogue	Photo Club member	male	young adult
+737	3	dialogue	malasada vendor	female	adult
+737	4	dialogue	malasada vendor	female	adult
+737	5	dialogue	malasada vendor	female	adult
+737	6	dialogue	malasada vendor	female	adult
+737	7	dialogue	malasada vendor	female	adult
+737	8	dialogue	malasada vendor	female	adult
+737	9	dialogue	malasada vendor	female	adult
+737	10	dialogue	malasada vendor	female	adult
+737	11	dialogue	malasada vendor	female	adult
+738	9	dialogue	Pyukumuku		
+738	12	dialogue	Slowpoke		
+739	5	dialogue	passerby		
+739	6	dialogue	woman	female	adult
+739	7	dialogue	man	male	adult
+739	10	dialogue	boutique clerk	female	adult
+739	11	dialogue	boutique clerk	female	adult
+739	12	dialogue	Corsola		
+739	13	dialogue	passerby		
+739	15	dialogue	passerby		
+739	18	dialogue	shop staff		adult
+739	19	dialogue	old man	male	older adult
+739	20	dialogue	old man	male	older adult
+739	23	dialogue	Pokémon		
+739	24	dialogue	Pokémon		
+739	31	dialogue	shopper		
+739	32	dialogue	boy	male	teen
+739	33	dialogue	Pokémon		
+740	2	dialogue	Team Skull Grunt		
+740	8	dialogue	Corsola		
+741	0	help			
+741	6	dialogue	girl	female	child
+741	11	dialogue	old man	male	older adult
+741	14	dialogue			
+742	2	dialogue	girl	female	child
+742	8	dialogue	girl	female	child
+742	9	dialogue	woman	female	young adult
+743	4	dialogue	old man	male	older adult
+743	5	dialogue	old man	male	older adult
+744	2	dialogue	young trainer	male	young adult
+744	5	dialogue	Pokémon		
+744	11	dialogue	woman	female	adult
+744	12	dialogue	woman	female	adult
+748	6	dialogue	Mantine		
+748	7	dialogue	Pokémon		
+749	0	dialogue	girl	female	child
+749	2	dialogue	young man	male	young adult
+749	3	dialogue	man	male	adult
+749	4	dialogue	middle-aged woman	female	older adult
+749	5	dialogue	man	male	adult
+749	32	dialogue	Pokémon		
+749	33	dialogue	Pokémon		
+749	34	dialogue	Pokémon		
+749	35	dialogue	middle-aged woman	female	older adult
+749	37	dialogue	middle-aged woman	female	older adult
+749	38	dialogue	Preschooler	male	child
+749	39	dialogue	Pokémon		
+749	40	dialogue	young man	male	young adult
+749	44	dialogue	Pokémon		
+749	52	dialogue	Pokémon		
+749	59	dialogue	Pokémon		
+749	64	dialogue	Pokémon		
+749	70	dialogue	Pokémon		
+749	71	dialogue	Pokémon		
+749	72	dialogue	Pokémon		
+751	1	dialogue	Meowth		
+763	2	dialogue	Delibird		
+774	1	dialogue	Meowth		
+774	3	dialogue	Meowth		
+777	6	help			
+778	9	sign			
+778	11	sign			
+778	12	sign			
+778	13	choice			
+778	14	choice			
+778	15	choice			
+778	16	choice			
+778	18	choice			
+778	19	sign			
+779	1	dialogue	Slowpoke		
+782	0	dialogue	receptionist		adult
+782	5	dialogue	Pikachu		
+785	4	dialogue	Pyukumuku		
+787	2	dialogue	food vendor		adult
+790	2	dialogue	Magnemite		
+790	6	dialogue	Pyukumuku		
+791	2	dialogue	Pokémon		
+792	2	dialogue	Magnemite		
+793	1	dialogue	Poliwhirl		
+793	2	narration			
+796	2	dialogue	woman	female	adult
+797	8	dialogue	trainer		
+797	9	dialogue	trainer		
+800	11	dialogue	Meowth		
+802	1	dialogue	Meowth		
+804	1	dialogue	young man	male	young adult
+804	2	dialogue	young man	male	young adult
+804	3	dialogue	young man	male	young adult
+805	0	dialogue	Hau's mom	female	adult
+805	1	dialogue	Hau's mom	female	adult
+805	2	dialogue	Hau's mom	female	adult
+805	3	dialogue	Hau's mom	female	adult
+805	4	dialogue	Slowpoke		
+806	1	dialogue	Pokémon		
+808	2	dialogue	Pokémon		
+810	2	dialogue	Snubbull		
+810	3	dialogue	Murkrow		
+810	4	dialogue	Pokémon		
+810	5	dialogue	Pokémon		
+810	6	narration			
+810	7	narration			
+810	13	narration			
+810	14	sign			
+810	15	narration			
+810	16	sign			
+810	18	sign			
+810	19	narration			
+810	20	sign			
+811	4	dialogue	Pokémon		
+813	0	dialogue	old man	male	older adult
+813	1	dialogue	old man	male	older adult
+815	6	dialogue	Drifloon		
+815	9	dialogue	Machamp		
+818	0	narration			
+818	1	dialogue	Delibird		
+818	2	dialogue	Delibird		
+818	3	dialogue	Delibird		
+818	4	dialogue	Delibird		
+818	6	dialogue	Delibird		
+819	0	dialogue	child		child
+819	6	dialogue	woman		adult
+819	19	dialogue	woman	female	adult
+819	24	dialogue	Pokémon		
+821	12	dialogue	Machamp		
+821	16	dialogue	Delibird		
+821	17	dialogue	Hypno		
+821	21	dialogue	Pokémon		
+826	0	dialogue	villager		
+826	2	dialogue	villager		
+828	0	dialogue	child		child
+828	3	dialogue	Bellhop	male	adult
+828	7	dialogue	Pikachu		
+828	8	dialogue	hotel staff		adult
+829	6	dialogue	middle-aged woman	female	older adult
+830	2	dialogue	Mantine		
+830	3	dialogue	Pokémon		
+830	7	dialogue	Pokémon		
+831	5	dialogue	Snubbull		
+831	6	dialogue	Miltank		
+831	9	dialogue	Sightseer	female	adult
+836	1	dialogue	Pokémon		
+838	0	dialogue	Fossil hunter	female	adult
+839	1	dialogue	Trial Guide	male	adult
+839	3	dialogue	Trial Guide		adult
+849	2	dialogue	Poliwhirl		
+849	5	dialogue	food vendor		adult
+849	7	dialogue	Electriwin	male	young adult
+849	8	dialogue	Electriwin	male	young adult
+850	3	dialogue	Corsola		
+850	4	dialogue	Starmie		
+850	8	narration			
+850	9	narration			
+854	0	dialogue	Murkrow		
+856	2	dialogue	Magnemite		
+858	0	help			
+858	2	name			
+861	0	dialogue	Aether Foundation staff	female	adult
+861	1	dialogue	Aether Foundation staff	female	adult
+861	2	dialogue	Aether Foundation staff	male	adult
+861	3	dialogue	Aether Foundation staff	female	adult
+861	7	dialogue	Poliwhirl		
+861	8	narration			
+863	11	dialogue	Scientist	male	adult
+863	12	dialogue	Magnemite		
+863	13	dialogue	Slowpoke		
+864	0	dialogue	Aether Foundation staff		adult
+864	1	dialogue	Aether Foundation staff	female	adult
+864	2	dialogue	Aether Foundation staff	male	adult
+864	3	dialogue	Slowpoke		
+866	0	dialogue	Bellhop	male	adult
+866	1	dialogue	Bellhop	male	adult
+866	7	dialogue	Meowth		
+866	13	dialogue	receptionist		adult
+866	14	dialogue	receptionist		adult
+867	0	dialogue	cashier	female	adult
+867	4	dialogue	Drifloon		
+867	13	narration			
+867	16	dialogue	cashier	female	adult
+867	19	dialogue	food vendor		adult
+867	20	dialogue	Pokémon		
+867	24	dialogue	food vendor		adult
+868	7	dialogue	Snubbull		
+870	2	dialogue	Sudowoodo		
+871	1	dialogue	Pikachu		
+871	3	dialogue	Pokémon		
+872	1	dialogue	Hypno		
+873	0	dialogue	older man	male	older adult
+873	1	dialogue	Snubbull		
+874	3	dialogue	Battle Royal fan	male	adult
+874	4	dialogue	Battle Royal fan	male	adult
+874	5	dialogue	Snubbull		
+874	7	dialogue	Machamp		
+874	11	dialogue	receptionist		adult
+876	1	dialogue	Grimer		
+876	2	dialogue	Grimer		
+876	3	dialogue	Grimer		
+876	4	dialogue	Grimer		
+877	0	dialogue	child		child
+877	2	dialogue	Youngster	male	teen
+877	3	dialogue	Youngster	male	teen
+877	4	dialogue	Youngster	male	teen
+877	5	dialogue	Sudowoodo		
+877	6	dialogue	Sudowoodo		
+877	7	narration			
+877	8	dialogue	child		child
+877	9	dialogue	Miltank		
+878	1	dialogue	Pokémon		
+878	2	dialogue	Miltank		
+878	3	dialogue	Pokémon Breeder	female	adult
+878	4	dialogue	Miltank		
+878	5	dialogue	Tauros		
+878	6	dialogue	Tauros		
+878	7	dialogue	Tauros		
+878	8	dialogue	Tauros		
+879	2	dialogue	Spinda		
+879	3	dialogue	Spinda		
+880	1	dialogue	Bellossom		
+882	1	dialogue	Pokémon		
+882	2	dialogue	Snubbull		
+882	3	dialogue	Meowth		
+885	4	dialogue	Murkrow		
+886	2	dialogue	Machamp		
+886	3	dialogue	food vendor		adult
+886	4	dialogue	Trainer		adult
+886	5	dialogue	trader	female	adult
+887	4	dialogue	Starmie		
+887	5	dialogue	child		child
+888	2	dialogue	Pokémon		
+888	4	dialogue	Poliwhirl		
+889	1	dialogue	Miltank		
+891	0	dialogue	Magmar		
+891	1	dialogue	Magmar		
+892	0	dialogue	Magmar		
+892	1	dialogue	Magmar		
+895	4	dialogue	Meowth		
+897	3	dialogue	Spinda		
+901	5	dialogue	Mineral collector	male	older adult
+903	1	dialogue	Pokémon		
+904	12	dialogue	Poliwhirl		
+904	13	dialogue	Magnemite		
+904	14	dialogue	Corsola		
+908	2	dialogue	Slowpoke		
+908	3	dialogue	Slowpoke		
+908	4	dialogue	Slowpoke		
+908	5	dialogue	Slowpoke		
+908	6	dialogue	Slowpoke		
+908	8	dialogue	Slowpoke		
+908	9	dialogue	Slowpoke		
+908	12	narration			
+909	1	dialogue	Pokémon		
+909	3	dialogue	Dugtrio		
+909	4	dialogue	Fisherman	male	adult
+909	5	dialogue	Fisherman	male	adult
+909	6	dialogue	Fisherman	male	adult
+909	7	dialogue	Pokémon		
+909	8	dialogue	Team Skull Grunt	male	young adult
+909	9	dialogue	Team Skull Grunt	male	young adult
+909	10	dialogue	Pokémon		
+909	12	dialogue	Dugtrio		
+909	13	dialogue	Gastrodon		
+909	14	dialogue	Team Skull Grunt	female	young adult
+909	15	dialogue	Team Skull Grunt	female	young adult
+910	1	dialogue	Pokémon League staff	female	adult
+910	2	dialogue	Pokémon League staff		adult
+910	9	dialogue	Pokémon		
+910	11	dialogue	Pokémon		
+910	12	dialogue	construction worker	male	young adult
+910	13	dialogue	construction worker	male	young adult
+911	0	dialogue	trial site guard	male	adult
+911	1	dialogue	trial site guard	male	adult
+911	2	dialogue	trial site guard	male	adult
+911	3	dialogue	trial site guard	male	adult
+911	4	dialogue	Surfer	male	adult
+911	5	dialogue	Surfer	male	adult
+912	2	dialogue	Corsola		
+912	3	dialogue	Fisherman	male	adult
+912	4	dialogue	Fisherman	male	adult
+912	6	dialogue	villager		
+912	7	dialogue	Pokémon		
+913	2	dialogue	Spinda		
+913	3	dialogue	Corsola		
+913	4	dialogue	Spinda owner	male	older adult
+913	5	dialogue	Spinda owner	male	older adult
+913	6	dialogue	villager		
+913	7	dialogue	Magmar		
+914	0	dialogue	Team Skull Grunt	male	young adult
+914	1	dialogue	Team Skull Grunt	male	young adult
+914	3	dialogue	Meowth		
+915	0	dialogue	Trainer		adult
+923	1	narration			
+925	3	dialogue	Slowpoke		
+926	3	dialogue	Magmar		
+926	7	dialogue	Hiker	male	adult
+926	8	dialogue	child		child
+927	2	dialogue	Pokémon		
+927	3	dialogue	Pokémon		
+942	7	dialogue	Ace Trainer	male	young adult
+942	9	dialogue	Machamp		
+962	2	dialogue	Poliwhirl		
+962	5	dialogue	food vendor		adult
+963	1	dialogue	Office Worker	female	adult
+963	3	sign			
+963	7	dialogue	Meowth		
+965	1	dialogue	Snubbull		
+966	5	dialogue	Pokémon		
+968	3	dialogue	Poliwhirl		
+968	4	dialogue	Magnemite		
+968	11	dialogue	Trainer		adult
+969	1	dialogue	Probopass		
+971	1	dialogue	Spinda		
+972	2	dialogue	Pokémon		
+973	1	dialogue	child		child
+973	2	dialogue	Aether House kid	male	child
+973	3	dialogue	child		child
+973	4	dialogue	child		child
+977	0	dialogue	Pokémon		
+978	0	dialogue	Meowth		
+978	1	dialogue	Meowth		
+978	2	dialogue	Meowth		
+978	3	dialogue	Meowth		
+978	4	dialogue	Meowth		
+978	5	dialogue	Meowth		
+978	6	dialogue	Meowth		
+982	7	dialogue	Magnemite		
+983	1	dialogue	Magnemite		
+985	0	narration			
+988	2	dialogue	Corsola		
+989	3	dialogue	trainer		young adult
+990	2	dialogue	Grimer		
+991	1	dialogue	Hypno		
+991	2	dialogue	Spinda		
+992	4	dialogue	Pokémon		
+993	3	dialogue	Starmie		
+994	1	dialogue	Starmie		
+994	2	dialogue	child		child
+1002	1	dialogue	Team Skull member	female	young adult
+1002	2	dialogue	Team Skull member	male	teen
+1003	1	dialogue	Sudowoodo		
+1004	4	dialogue	Grimer		
+1005	1	dialogue	Pokémon		
+1005	2	dialogue	Pokémon		
+1006	2	dialogue	Black Belt	male	adult
+1006	5	dialogue	Machamp		
+1006	6	dialogue	Machamp		
+1012	1	dialogue	Starmie		
+1013	1	dialogue	Slowpoke		
+1013	3	dialogue	Corsola		
+1013	8	dialogue	Pokémon		
+1013	10	dialogue	Gastrodon		
+1018	1	dialogue	Probopass		
+1019	0	dialogue	chef	male	adult
+1019	1	dialogue	Miltank		
+1025	0	narration			
+1025	1	narration			
+1025	2	narration			
+1027	0	narration			
+1027	1	narration			
+1027	2	narration			
+1038	1	dialogue	Pokémon		
+1038	2	dialogue	Poliwhirl		
+1038	3	dialogue	Starmie		
+1040	2	dialogue	Pokémon Breeder	female	adult
+1040	3	dialogue	Pokémon Breeder	female	adult
+1041	2	dialogue	Mina's father	male	older adult
+1041	3	dialogue	Mina's father	male	older adult
+1041	4	dialogue	Mina's mother	female	older adult
+1041	5	dialogue	Mina's mother	female	older adult
+1041	6	dialogue	Snubbull		
+1042	12	dialogue	Pelipper		
+1044	0	dialogue	Miltank		
+1044	2	dialogue	Pokémon		
+1044	3	dialogue	Meowth		
+1044	4	dialogue	Sudowoodo		
+1044	5	dialogue	Pokémon		
+1045	0	dialogue	Pokémon		
+1046	3	dialogue	Hypno		
+1046	7	dialogue	Meowth		
+1046	12	dialogue	Miltank		
+1047	3	dialogue	Rising Star	female	young adult
+1047	9	dialogue	Pokémon		
+1047	19	dialogue	Rockruff		
+1049	13	dialogue	Sudowoodo		
+1051	8	dialogue	Machamp		
+1051	9	dialogue	Machamp		
+1055	1	choice			
+1055	2	choice			
+1055	3	choice			
+1055	4	choice			
+1055	5	choice			
+1055	6	sign			
+1055	7	sign			
+1055	8	sign			
+1055	9	sign			
+1055	11	name			
+1055	12	name			
+1055	13	name			
+1055	14	name			
+1055	15	name			
+1055	16	name			
+1055	17	choice			
+1055	18	sign			
+1055	19	sign			
+1055	20	sign			
+1055	21	sign			
+1055	22	sign			
+1055	23	sign			
+1060	0	dialogue	Festival Plaza staff		adult
+1060	18	narration			
+1060	19	narration			
+1060	20	narration			
+1060	21	narration			
+1060	22	narration			
+1060	23	narration			
+1060	24	narration			
+1060	25	narration			
+1060	26	narration			
+1060	27	narration			
+1060	28	narration			
+1060	29	narration			
+1060	30	narration			
+1060	31	narration			
+1060	32	narration			
+1060	33	narration			
+1060	34	narration			
+1060	35	narration			
+1060	36	narration			
+1060	37	narration			
+1060	38	narration			
+1060	39	narration			
+1060	40	narration			
+1060	41	narration			
+1060	42	narration			
+1060	43	narration			
+1060	44	narration			
+1060	45	narration			
+1060	46	narration			
+1060	47	narration			
+1060	48	narration			
+1060	49	narration			
+1060	50	narration			
+1060	51	narration			
+1060	52	narration			
+1060	53	narration			
+1060	54	narration			
+1060	55	narration			
+1060	56	narration			
+1060	57	narration			
+1060	58	narration			
+1060	64	dialogue	Festival Plaza staff		adult
+1060	65	dialogue	Festival Plaza staff		adult
+1060	66	dialogue	Festival Plaza staff		adult
+1060	67	dialogue	Festival Plaza staff		adult
+1060	70	dialogue	Festival Plaza staff		adult
+1060	71	dialogue	Festival Plaza staff		adult
+1060	74	dialogue	Festival Plaza staff		adult
+1060	75	dialogue	Festival Plaza staff		adult
+1060	78	dialogue	Festival Plaza staff		adult
+1060	79	dialogue	Festival Plaza staff		adult
+1060	80	dialogue	Festival Plaza staff		adult
+1060	81	dialogue	Festival Plaza staff		adult
+1060	82	dialogue	Festival Plaza staff		adult
+1060	83	dialogue	Festival Plaza staff		adult
+1060	84	dialogue	Festival Plaza staff		adult
+1060	85	dialogue	Festival Plaza staff		adult
+1060	86	dialogue	Festival Plaza staff		adult
+1060	87	dialogue	Festival Plaza staff		adult
+1060	88	dialogue	Festival Plaza staff		adult
+1060	89	dialogue	Festival Plaza staff		adult
+1060	90	dialogue	Festival Plaza staff		adult
+1060	91	dialogue	Festival Plaza staff		adult
+1060	92	dialogue	Festival Plaza staff		adult
+1060	93	dialogue	Festival Plaza staff		adult
+1060	94	dialogue	Festival Plaza staff		adult
+1060	95	dialogue	Festival Plaza staff		adult
+1060	96	dialogue	Festival Plaza staff		adult
+1060	97	dialogue	Festival Plaza staff		adult
+1060	98	dialogue	Festival Plaza staff		adult
+1060	99	dialogue	Festival Plaza staff		adult
+1060	100	dialogue	Festival Plaza staff		adult
+1060	101	dialogue	Festival Plaza staff		adult
+1060	102	dialogue	Festival Plaza staff		adult
+1060	103	dialogue	Festival Plaza staff		adult
+1060	104	dialogue	Festival Plaza staff		adult
+1060	105	dialogue	Festival Plaza staff		adult
+1060	106	dialogue	Festival Plaza staff		adult
+1060	107	dialogue	Festival Plaza staff		adult
+1060	108	dialogue	Festival Plaza staff		adult
+1060	109	dialogue	Festival Plaza staff		adult
+1060	110	dialogue	Festival Plaza staff		adult
+1060	111	dialogue	Festival Plaza staff		adult
+1060	112	dialogue	Festival Plaza staff		adult
+1060	113	dialogue	Festival Plaza staff		adult
+1060	114	dialogue	Festival Plaza staff		adult
+1060	115	dialogue	Festival Plaza staff		adult
+1060	116	dialogue	Festival Plaza staff		adult
+1060	117	dialogue	Festival Plaza staff		adult
+1060	118	dialogue	Festival Plaza staff		adult
+1060	119	dialogue	Festival Plaza staff		adult
+1060	120	dialogue	Festival Plaza staff		adult
+1060	121	dialogue	Festival Plaza staff		adult
+1060	122	dialogue	Festival Plaza staff		adult
+1060	123	dialogue	Festival Plaza staff		adult
+1060	124	dialogue	Festival Plaza staff		adult
+1060	125	dialogue	Festival Plaza staff		adult
+1060	126	dialogue	Festival Plaza staff		adult
+1060	127	dialogue	Festival Plaza staff		adult
+1060	128	dialogue	Festival Plaza staff		adult
+1060	129	dialogue	Festival Plaza staff		adult
+1060	130	dialogue	Festival Plaza staff		adult
+1060	131	dialogue	Festival Plaza staff		adult
+1060	132	dialogue	Festival Plaza staff		adult
+1060	133	dialogue	Festival Plaza staff		adult
+1060	134	dialogue	Festival Plaza staff		adult
+1060	135	dialogue	Festival Plaza staff		adult
+1060	136	dialogue	Festival Plaza staff		adult
+1060	137	dialogue	Festival Plaza staff		adult
+1060	144	choice			
+1060	157	choice			
+1060	171	choice			
+1060	172	choice			
+1060	192	choice			
+1060	193	choice			
+1060	206	narration			
+1060	207	dialogue		male	
+1060	208	dialogue		female	
+1060	209	dialogue		male	
+1060	210	dialogue		female	
+1060	211	dialogue		male	
+1060	212	dialogue		female	
+1060	213	dialogue		male	
+1060	214	dialogue		female	
+1060	215	dialogue		male	
+1060	216	dialogue		female	
+1060	217	dialogue		male	
+1060	218	dialogue		female	
+1060	219	dialogue		male	
+1060	220	dialogue		female	
+1060	221	dialogue		male	
+1060	222	dialogue		female	
+1060	223	dialogue		male	
+1060	224	dialogue		female	
+1060	225	dialogue		male	
+1060	226	dialogue		female	
+1060	227	dialogue		male	
+1060	228	dialogue		female	
+1060	229	narration			
+1060	230	narration			
+1060	231	narration			
+1060	232	narration			
+1060	233	narration			
+1060	234	narration			
+1060	235	narration			
+1060	236	narration			
+1060	237	narration			
+1060	238	narration			
+1060	239	narration			
+1060	240	narration			
+1060	241	narration			
+1060	242	narration			
+1060	243	narration			
+1060	244	narration			
+1060	245	narration			
+1060	246	narration			
+1060	247	narration			
+1060	248	narration			
+1060	249	narration			
+1060	250	narration			
+1060	251	narration			
+1060	252	narration			
+1060	253	narration			
+1060	254	narration			
+1060	255	narration			
+1060	256	narration			
+1060	257	narration			
+1060	258	narration			
+1060	259	narration			
+1060	260	narration			
+1060	261	narration			
+1060	262	narration			
+1060	263	narration			
+1060	264	narration			
+1060	265	narration			
+1060	266	narration			
+1060	267	narration			
+1060	268	narration			
+1060	269	narration			
+1060	270	narration			
+1060	271	narration			
+1060	272	narration			
+1060	273	narration			
+1060	274	narration			
+1060	275	narration			
+1060	276	narration			
+1060	277	narration			
+1060	278	narration			
+1060	279	narration			
+1060	280	narration			
+1060	281	narration			
+1060	282	narration			
+1060	283	narration			
+1060	284	narration			
+1060	285	narration			
+1060	286	narration			
+1060	287	narration			
+1060	288	narration			
+1060	289	narration			
+1060	290	narration			
+1060	291	narration			
+1060	292	narration			
+1060	293	narration			
+1060	294	narration			
+1060	295	narration			
+1060	296	narration			
+1060	297	narration			
+1060	298	narration			
+1060	299	narration			
+1060	300	narration			
+1060	301	narration			
+1060	302	narration			
+1060	303	narration			
+1060	304	narration			
+1060	305	narration			
+1060	306	narration			
+1060	307	narration			
+1060	308	narration			
+1060	309	narration			
+1060	310	narration			
+1060	311	narration			
+1060	312	narration			
+1060	313	narration			
+1060	314	narration			
+1060	315	narration			
+1060	316	narration			
+1060	317	narration			
+1060	318	narration			
+1060	319	narration			
+1060	320	narration			
+1060	321	narration			
+1060	322	narration			
+1060	323	narration			
+1060	324	narration			
+1060	325	narration			
+1060	326	narration			
+1060	327	narration			
+1060	328	narration			
+1060	329	narration			
+1060	330	narration			
+1060	331	narration			
+1060	332	narration			
+1060	333	narration			
+1060	334	narration			
+1060	335	narration			
+1060	336	narration			
+1060	337	narration			
+1060	338	narration			
+1060	339	narration			
+1060	340	narration			
+1060	341	narration			
+1060	342	narration			
+1060	343	narration			
+1060	344	narration			
+1060	345	narration			
+1060	346	narration			
+1060	347	narration			
+1060	348	narration			
+1060	349	narration			
+1060	350	narration			
+1060	351	narration			
+1060	352	narration			
+1060	353	narration			
+1060	354	narration			
+1060	355	narration			
+1060	356	narration			
+1060	357	narration			
+1060	358	narration			
+1060	359	narration			
+1060	360	narration			
+1060	361	narration			
+1060	362	narration			
+1060	363	narration			
+1060	364	narration			
+1060	365	narration			
+1060	366	narration			
+1060	367	narration			
+1060	368	narration			
+1060	369	narration			
+1060	370	narration			
+1060	371	narration			
+1060	372	narration			
+1060	373	narration			
+1060	374	narration			
+1060	375	narration			
+1060	376	narration			
+1060	377	narration			
+1060	378	narration			
+1060	379	narration			
+1060	380	narration			
+1060	381	narration			
+1060	382	narration			
+1060	383	narration			
+1060	384	narration			
+1060	385	narration			
+1060	386	narration			
+1060	387	narration			
+1060	388	narration			
+1060	427	dialogue		male	
+1060	428	dialogue		female	
+1060	429	dialogue		male	
+1060	430	dialogue		female	
+1060	431	dialogue		male	
+1060	432	dialogue		female	
+1060	433	dialogue		male	
+1060	434	dialogue		female	
+1060	435	dialogue		male	
+1060	436	dialogue		female	
+1060	437	dialogue		male	
+1060	438	dialogue		female	
+1060	439	dialogue		male	
+1060	440	dialogue		female	
+1060	441	dialogue		male	
+1060	442	dialogue		female	
+1060	443	dialogue		male	
+1060	444	dialogue		female	
+1060	453	dialogue		male	
+1060	454	dialogue		female	
+1060	455	dialogue		male	
+1060	456	dialogue		female	
+1060	459	dialogue		male	
+1060	460	dialogue		female	
+1060	461	dialogue		male	
+1060	462	dialogue		female	
+1060	463	dialogue		male	
+1060	464	dialogue		female	
+1060	465	dialogue	Festival Plaza guest		
+1060	466	dialogue	Festival Plaza guest		
+1060	467	dialogue		male	
+1060	468	dialogue		female	
+1060	480	dialogue		male	
+1060	481	dialogue		female	
+1060	482	dialogue		male	
+1060	483	dialogue		female	
+1060	484	dialogue		male	
+1060	485	dialogue		female	
+1060	486	dialogue		male	
+1060	487	dialogue		female	
+1060	494	narration			
+1060	495	narration			
+1060	496	narration			
+1060	497	narration			
+1060	498	narration			
+1060	499	narration			
+1060	500	narration			
+1060	501	narration			
+1060	502	narration			
+1060	503	narration			
+1060	504	narration			
+1060	505	narration			
+1060	506	narration			
+1060	507	narration			
+1060	508	narration			
+1060	509	narration			
+1060	510	narration			
+1060	511	narration			
+1060	514	narration			
+1060	515	narration			
+1060	516	narration			
+1060	517	narration			
+1060	518	narration			
+1060	519	narration			
+1060	520	narration			
+1060	521	narration			
+1060	522	narration			
+1060	523	narration			
+1060	524	narration			
+1060	525	narration			
+1060	526	narration			
+1060	527	narration			
+1060	528	narration			
+1060	529	narration			
+1060	530	narration			
+1060	531	narration			
+1060	532	narration			
+1060	533	narration			
+1060	534	narration			
+1060	535	narration			
+1060	536	narration			
+1060	537	narration			
+1060	538	narration			
+1060	539	narration			
+1060	540	narration			
+1060	541	narration			
+1060	542	narration			
+1060	543	narration			
+1060	544	narration			
+1060	545	narration			
+1060	546	narration			
+1060	547	narration			
+1060	548	narration			
+1060	549	narration			
+1060	550	narration			
+1060	551	narration			
+1060	552	narration			
+1060	553	narration			
+1060	554	narration			
+1060	555	narration			
+1060	556	narration			
+1060	557	dialogue	Festival Plaza guest		young adult
+1060	558	dialogue	Festival Plaza guest		young adult
+1060	559	dialogue	Festival Plaza guest		young adult
+1060	560	dialogue	Festival Plaza guest		young adult
+1060	561	dialogue	Festival Plaza guest		young adult
+1060	562	dialogue	Festival Plaza guest		young adult
+1060	563	dialogue	Festival Plaza guest		young adult
+1060	564	dialogue	Festival Plaza guest		young adult
+1060	565	dialogue	Festival Plaza guest		young adult
+1060	566	dialogue	Festival Plaza guest		young adult
+1060	567	dialogue	Festival Plaza guest		young adult
+1060	568	dialogue	Festival Plaza guest		young adult
+1060	569	dialogue	Festival Plaza guest		young adult
+1060	570	dialogue	Festival Plaza guest		young adult
+1060	571	dialogue	Festival Plaza guest		young adult
+1060	572	dialogue		male	young adult
+1060	573	dialogue		female	young adult
+1060	574	dialogue		male	young adult
+1060	575	dialogue		female	young adult
+1060	576	dialogue		male	young adult
+1060	577	dialogue		female	young adult
+1060	578	dialogue		male	young adult
+1060	579	dialogue		female	young adult
+1060	580	dialogue		male	young adult
+1060	581	dialogue		female	young adult
+1060	582	dialogue		male	young adult
+1060	583	dialogue		female	young adult
+1060	584	dialogue		male	young adult
+1060	585	dialogue		female	young adult
+1060	586	dialogue		male	young adult
+1060	587	dialogue		female	young adult
+1060	588	dialogue		male	young adult
+1060	589	dialogue		female	young adult
+1060	590	dialogue		male	young adult
+1060	591	dialogue		female	young adult
+1060	592	dialogue		male	young adult
+1060	593	dialogue		female	young adult
+1060	594	dialogue		male	young adult
+1060	595	dialogue		female	young adult
+1060	596	dialogue		male	young adult
+1060	597	dialogue		female	young adult
+1060	598	dialogue		male	young adult
+1060	599	dialogue		female	young adult
+1060	600	dialogue		male	young adult
+1060	601	dialogue		female	young adult
+1060	602	dialogue		male	young adult
+1060	603	dialogue		female	young adult
+1060	604	dialogue		male	young adult
+1060	605	dialogue		female	young adult
+1060	606	dialogue		male	young adult
+1060	607	dialogue		female	young adult
+1060	608	dialogue	Festival Plaza guest		young adult
+1060	609	dialogue	Festival Plaza guest		young adult
+1060	610	dialogue		male	young adult
+1060	611	dialogue		female	young adult
+1060	612	dialogue		male	young adult
+1060	613	dialogue		female	young adult
+1060	614	dialogue		male	young adult
+1060	615	dialogue		female	young adult
+1060	616	dialogue		male	young adult
+1060	617	dialogue		female	young adult
+1060	618	dialogue		male	young adult
+1060	619	dialogue		female	young adult
+1060	620	choice			
+1060	621	choice			
+1060	622	choice			
+1060	623	choice			
+1060	624	choice			
+1060	625	choice			
+1060	626	choice			
+1060	627	choice			
+1060	628	choice			
+1060	629	choice			
+1060	630	choice			
+1060	631	choice			
+1060	632	choice			
+1060	633	choice			
+1060	634	dialogue		male	young adult
+1060	635	dialogue		female	young adult
+1060	636	dialogue		male	young adult
+1060	637	dialogue		female	young adult
+1060	638	dialogue		male	young adult
+1060	639	dialogue		female	young adult
+1060	640	dialogue		male	young adult
+1060	641	dialogue		female	young adult
+1060	642	dialogue	Festival Plaza guest		young adult
+1060	643	dialogue	Festival Plaza guest		young adult
+1060	644	dialogue	Festival Plaza guest		young adult
+1060	645	dialogue	Festival Plaza guest		young adult
+1060	646	dialogue	Festival Plaza guest		young adult
+1060	647	dialogue	Festival Plaza guest		young adult
+1060	648	dialogue		male	young adult
+1060	649	dialogue		female	young adult
+1060	650	dialogue		male	young adult
+1060	651	dialogue		female	young adult
+1060	652	dialogue	Festival Plaza guest		young adult
+1060	653	dialogue	Festival Plaza guest		young adult
+1060	654	dialogue	Festival Plaza guest		young adult
+1060	655	dialogue	Festival Plaza guest		young adult
+1060	656	dialogue	Festival Plaza guest		young adult
+1060	657	dialogue	Festival Plaza guest		young adult
+1060	658	dialogue	Festival Plaza guest		young adult
+1060	659	dialogue	Festival Plaza guest		young adult
+1060	660	dialogue	Festival Plaza guest		young adult
+1060	661	dialogue	Festival Plaza guest		young adult
+1060	662	dialogue	Festival Plaza guest		young adult
+1060	663	dialogue	Festival Plaza guest		young adult
+1060	664	dialogue	Festival Plaza guest		young adult
+1060	665	dialogue	Festival Plaza guest		young adult
+1060	666	dialogue	Festival Plaza guest		young adult
+1060	667	dialogue	Festival Plaza guest		young adult
+1060	668	dialogue	Festival Plaza guest		young adult
+1060	669	dialogue	Festival Plaza guest		young adult
+1060	670	dialogue	Festival Plaza guest		young adult
+1060	671	dialogue	Festival Plaza guest		young adult
+1060	672	dialogue	Festival Plaza guest		young adult
+1060	673	dialogue	Festival Plaza guest		young adult
+1060	674	dialogue	Festival Plaza guest		young adult
+1060	675	dialogue	Festival Plaza guest		young adult
+1060	676	dialogue	Festival Plaza guest		young adult
+1060	677	dialogue	Festival Plaza guest		young adult
+1060	678	dialogue	Festival Plaza guest		young adult
+1060	679	dialogue	Festival Plaza guest		young adult
+1060	680	dialogue	Festival Plaza guest		young adult
+1060	681	dialogue	Festival Plaza guest		young adult
+1060	682	dialogue	Festival Plaza guest		young adult
+1060	683	dialogue	Festival Plaza guest		young adult
+1060	684	dialogue	Festival Plaza guest		young adult
+1060	685	dialogue	Festival Plaza guest		young adult
+1060	686	dialogue		male	young adult
+1060	687	dialogue		female	young adult
+1060	688	dialogue		male	young adult
+1060	689	dialogue		female	young adult
+1060	690	dialogue		male	young adult
+1060	691	dialogue		female	young adult
+1060	692	dialogue		male	young adult
+1060	693	dialogue		female	young adult
+1060	694	dialogue		male	young adult
+1060	695	dialogue		female	young adult
+1060	696	dialogue		male	young adult
+1060	697	dialogue		female	young adult
+1060	698	dialogue		male	young adult
+1060	699	dialogue		female	young adult
+1060	700	dialogue		male	young adult
+1060	701	dialogue		female	young adult
+1060	702	dialogue		male	young adult
+1060	703	dialogue		female	young adult
+1060	704	dialogue		male	young adult
+1060	705	dialogue		female	young adult
+1060	706	dialogue	Festival Plaza guest		young adult
+1060	707	dialogue	Festival Plaza guest		young adult
+1060	708	dialogue	Festival Plaza guest		young adult
+1060	709	dialogue	Festival Plaza guest		young adult
+1060	710	dialogue	Festival Plaza guest		young adult
+1060	711	dialogue	Festival Plaza guest		young adult
+1060	712	dialogue	Festival Plaza guest		young adult
+1060	713	dialogue	Festival Plaza guest		young adult
+1060	714	dialogue	Festival Plaza guest		young adult
+1060	715	dialogue	Festival Plaza guest		young adult
+1060	716	dialogue	Festival Plaza guest		young adult
+1060	717	dialogue	Festival Plaza guest		young adult
+1060	718	dialogue	Festival Plaza guest		young adult
+1060	719	dialogue	Festival Plaza guest		young adult
+1060	720	dialogue	Festival Plaza guest		young adult
+1060	721	dialogue	Festival Plaza guest		young adult
+1060	722	dialogue	Festival Plaza guest		young adult
+1060	723	dialogue	Festival Plaza guest		young adult
+1060	724	dialogue	Festival Plaza guest		young adult
+1060	725	dialogue	Festival Plaza guest		young adult
+1060	726	dialogue	Festival Plaza guest		young adult
+1060	727	dialogue	Festival Plaza guest		young adult
+1060	728	dialogue		male	young adult
+1060	729	dialogue		female	young adult
+1060	730	dialogue		male	young adult
+1060	731	dialogue		female	young adult
+1060	732	dialogue		male	young adult
+1060	733	dialogue		female	young adult
+1060	734	dialogue		male	young adult
+1060	735	dialogue		female	young adult
+1060	737	help			
+1060	763	help			
+1060	764	help			
+1060	765	help			
+1060	775	narration			
+1060	779	dialogue		male	young adult
+1060	780	dialogue		female	young adult
+1060	783	dialogue		male	young adult
+1060	784	dialogue		female	young adult
+1060	785	dialogue		male	young adult
+1060	786	dialogue		female	young adult
+1060	787	dialogue		male	young adult
+1060	788	dialogue		female	young adult
+1060	789	dialogue	Festival Plaza guest		young adult
+1060	790	dialogue	Festival Plaza guest		young adult
+1060	791	dialogue	Festival Plaza guest		young adult
+1060	792	dialogue	Festival Plaza guest		young adult
+1060	793	dialogue	Festival Plaza guest		young adult
+1060	794	dialogue	Festival Plaza guest		young adult
+1060	795	dialogue	Festival Plaza guest		young adult
+1060	796	dialogue	Festival Plaza guest		young adult
+1060	797	dialogue	visitor		
+1060	798	dialogue	visitor		
+1060	799	dialogue	visitor	male	
+1060	800	dialogue	visitor	female	
+1060	801	dialogue	visitor	male	
+1060	802	dialogue	visitor	female	
+1060	803	dialogue	visitor	male	
+1060	804	dialogue	visitor	female	
+1060	805	dialogue	visitor	male	
+1060	806	dialogue	visitor	female	
+1060	807	dialogue	visitor	male	
+1060	808	dialogue	visitor	female	
+1060	809	dialogue	visitor	male	
+1060	810	dialogue	visitor	female	
+1060	811	dialogue	visitor	male	
+1060	812	dialogue	visitor	female	
+1060	813	dialogue	visitor	male	
+1060	814	dialogue	visitor	female	
+1060	817	dialogue	visitor		
+1060	818	dialogue	visitor		
+1060	823	dialogue	visitor	male	
+1060	824	dialogue	visitor	female	
+1060	825	dialogue	visitor	male	
+1060	826	dialogue	visitor	female	
+1060	827	dialogue	visitor		
+1060	828	dialogue	visitor		
+1060	829	dialogue	visitor	male	
+1060	830	dialogue	visitor	female	
+1060	831	dialogue	visitor	male	
+1060	832	dialogue	visitor	female	
+1060	833	dialogue	visitor	male	
+1060	834	dialogue	visitor	female	
+1060	835	dialogue	visitor	male	
+1060	836	dialogue	visitor	female	
+1060	837	dialogue	visitor	male	
+1060	838	dialogue	visitor	female	
+1060	839	dialogue	visitor	male	
+1060	840	dialogue	visitor	female	
+1060	841	dialogue	visitor	male	
+1060	842	dialogue	visitor	female	
+1060	843	dialogue	visitor	male	
+1060	844	dialogue	visitor	female	
+1060	845	dialogue	visitor	male	
+1060	846	dialogue	visitor	female	
+1060	847	dialogue	visitor	male	
+1060	848	dialogue	visitor	female	
+1060	849	dialogue	visitor	male	
+1060	850	dialogue	visitor	female	
+1060	851	dialogue	visitor	male	
+1060	852	dialogue	visitor	female	
+1060	853	dialogue	visitor	male	
+1060	854	dialogue	visitor	female	
+1060	855	dialogue	visitor	male	
+1060	856	dialogue	visitor	female	
+1060	857	dialogue	visitor	male	
+1060	858	dialogue	visitor	female	
+1060	859	dialogue	visitor	male	
+1060	860	dialogue	visitor	female	
+1060	861	dialogue	visitor	male	
+1060	862	dialogue	visitor	female	
+1060	863	dialogue	visitor	male	
+1060	864	dialogue	visitor	female	
+1060	865	dialogue	visitor	male	
+1060	866	dialogue	visitor	female	
+1060	867	dialogue	visitor	male	
+1060	868	dialogue	visitor	female	
+1060	869	dialogue	visitor	male	
+1060	870	dialogue	visitor	female	
+1060	871	dialogue	visitor	male	
+1060	872	dialogue	visitor	female	
+1060	873	dialogue	visitor	male	
+1060	874	dialogue	visitor	female	
+1060	875	dialogue	visitor	male	
+1060	876	dialogue	visitor	female	
+1060	877	dialogue	visitor	male	
+1060	878	dialogue	visitor	female	
+1060	879	narration			
+1060	880	narration			
+1060	881	dialogue	visitor	male	
+1060	882	dialogue	visitor	female	
+1060	883	dialogue	visitor	male	
+1060	884	dialogue	visitor	female	
+1060	885	dialogue	visitor	male	
+1060	886	dialogue	visitor	female	
+1060	887	dialogue	visitor	male	
+1060	888	dialogue	visitor	female	
+1060	917	dialogue	shopkeeper		adult
+1060	918	dialogue	shopkeeper		adult
+1060	919	dialogue	shopkeeper		adult
+1060	920	dialogue	shopkeeper		adult
+1060	921	dialogue	visitor		
+1060	922	dialogue	Sophocles	male	teen
+1060	923	dialogue	Sophocles	male	teen
+1060	924	dialogue	Sophocles	male	teen
+1060	925	dialogue	Sophocles	male	teen
+1060	926	dialogue	Sophocles	male	teen
+1060	927	dialogue	Sophocles	male	teen
+1060	928	dialogue	Sophocles	male	teen
+1060	929	dialogue	Sophocles	male	teen
+1060	930	dialogue	Sophocles	male	teen
+1060	931	dialogue	Sophocles	male	teen
+1060	932	dialogue	Sophocles	male	teen
+1060	933	narration			
+1060	939	dialogue	visitor		
+1060	940	dialogue	visitor		
+1060	945	dialogue	plaza owner	male	
+1060	946	dialogue	plaza owner	female	
+1060	947	dialogue	plaza owner	male	
+1060	948	dialogue	plaza owner	female	
+1060	949	name			
+1060	950	name			
+1060	951	dialogue	plaza owner	male	
+1060	952	dialogue	plaza owner	female	
+1060	953	dialogue	plaza owner	male	
+1060	954	dialogue	plaza owner	female	
+1060	955	dialogue	plaza owner	male	
+1060	956	dialogue	plaza owner	female	
+1060	957	dialogue	plaza owner	male	
+1060	958	dialogue	plaza owner	female	
+1060	959	dialogue	guide		
+1060	960	narration			
+1060	964	narration			
+1060	966	narration			
+1060	967	narration			
+1060	968	narration			
+1060	969	narration			
+1060	970	narration			
+1060	971	narration			
+1060	972	narration			
+1060	973	narration			
+1060	974	narration			
+1060	975	narration			
+1060	976	narration			
+1060	977	narration			
+1060	978	narration			
+1060	979	narration			
+1060	980	narration			
+1060	981	narration			
+1060	982	narration			
+1060	983	narration			
+1060	984	narration			
+1060	985	narration			
+1060	986	narration			
+1060	987	narration			
+1060	988	narration			
+1060	989	narration			
+1060	995	dialogue	Festival Plaza staff		adult
+1060	996	dialogue	Festival Plaza staff		adult
+1060	997	dialogue	Festival Plaza staff		adult
+1060	998	dialogue	Festival Plaza staff		adult
+1060	999	dialogue	Festival Plaza staff		adult
+1060	1000	dialogue	Festival Plaza staff		adult
+1060	1001	dialogue	Festival Plaza staff		adult
+1060	1002	dialogue	Festival Plaza staff		adult
+1060	1003	dialogue	Festival Plaza staff		adult
+1060	1004	dialogue	Festival Plaza staff		adult
+1060	1005	dialogue	Festival Plaza staff		adult
+1060	1006	dialogue	Festival Plaza staff		adult
+1060	1008	dialogue	fashion stylist	male	
+1060	1009	dialogue	fashion stylist	female	
+1060	1010	dialogue	fashion stylist	male	
+1060	1011	dialogue	fashion stylist	female	
+1060	1017	dialogue	visitor	male	
+1060	1018	dialogue	visitor	female	
+1060	1019	dialogue	visitor	male	
+1060	1020	dialogue	visitor	female	
+1060	1021	narration			
+1060	1022	narration			
+1060	1023	dialogue	Battle Agency staff		adult
+1060	1024	dialogue	Battle Agency staff		adult
+1060	1025	dialogue	Battle Agency staff		adult
+1060	1026	dialogue	Battle Agency staff		adult
+1060	1027	dialogue	Battle Agency staff		adult
+1060	1028	dialogue	Battle Agency staff		adult
+1060	1029	dialogue	Battle Agency staff		adult
+1060	1030	dialogue	Battle Agency staff		adult
+1060	1031	dialogue	Battle Agency staff		adult
+1060	1032	dialogue	Battle Agency staff		adult
+1060	1033	dialogue	Battle Agency staff		adult
+1060	1034	dialogue	Battle Agency staff		adult
+1060	1035	dialogue	Battle Agency staff		adult
+1060	1036	dialogue	Battle Agency staff		adult
+1060	1038	dialogue	Battle Agency staff		adult
+1060	1039	dialogue	Battle Agency staff		adult
+1060	1040	dialogue	Festival Plaza staff	male	adult
+1060	1041	dialogue	Festival Plaza staff	female	adult
+1060	1045	dialogue	Battle Agency staff		adult
+1060	1046	dialogue	Battle Agency staff		adult
+1060	1047	dialogue	Battle Agency staff		adult
+1060	1048	dialogue	Battle Agency staff		adult
+1060	1049	dialogue	Battle Agency staff		adult
+1060	1050	dialogue	Battle Agency staff		adult
+1060	1051	dialogue	Battle Agency staff		adult
+1060	1052	dialogue	Battle Agency staff		adult
+1060	1053	dialogue	Battle Agency staff		adult
+1060	1054	dialogue	Battle Agency staff		adult
+1060	1060	dialogue	Battle Agency staff		adult
+1060	1061	dialogue	Battle Agency staff		adult
+1061	31	dialogue	Worker	male	adult
+1061	36	narration			
+1061	45	narration			
+1061	61	narration			
+1061	131	dialogue	receptionist	female	young adult
+1061	132	dialogue	receptionist	female	young adult
+1061	133	dialogue	receptionist	female	young adult
+1061	166	narration			
+1061	182	dialogue	receptionist	female	young adult
+1061	183	dialogue	receptionist	female	young adult
+1061	279	narration			
+1061	280	narration			
+1061	287	dialogue	Sophocles	male	teen
+1061	288	dialogue	Sophocles	male	teen
+1061	289	dialogue	Sophocles	male	teen
+1061	290	dialogue	Sophocles	male	teen
+1061	291	dialogue	Sophocles	male	teen
+1063	0	dialogue	Pokémon		
+1068	0	dialogue	Pokémon		
+1069	0	dialogue	Pokémon		
+1070	0	dialogue	Pokémon		
+1071	2	dialogue	Pokémon		
+1071	3	narration			
+1072	0	dialogue	Pokémon		
+1073	0	dialogue	Ultra Space resident	female	young adult
+1073	1	dialogue	Ultra Space resident	female	young adult
+1073	2	dialogue	Ultra Space resident	female	young adult
+1073	3	dialogue	Ultra Space resident	female	young adult
+1073	4	dialogue	Ultra Space resident	female	young adult
+1073	5	dialogue	Ultra Space resident	female	young adult
+1073	6	dialogue	Ultra Space resident	female	young adult
+1073	7	dialogue	Ultra Space resident	female	young adult
+1073	8	dialogue	Ultra Space resident	female	young adult
+1073	14	dialogue	Ultra Space resident	female	young adult
+1073	15	dialogue	Ultra Space resident	female	young adult
+1073	16	dialogue	Ultra Space resident	female	young adult
+1073	17	dialogue	Ultra Space resident	female	young adult
+1073	18	dialogue	Ultra Space resident	female	young adult
+1073	22	dialogue	Ultra Space resident	female	young adult
+1073	23	dialogue	Ultra Space resident	female	young adult
+1073	24	dialogue	Ultra Space resident	female	young adult
+1073	26	dialogue	Ultra Space resident	female	young adult
+1074	1	dialogue	Rotom		
+1074	10	dialogue	Pokémon		
+1119	0	dialogue	Aether Foundation employee		adult
+1119	1	dialogue	Aether Foundation employee		adult
+1119	2	dialogue	Aether Foundation employee		adult
+1119	3	dialogue	Hypno		
+1119	9	dialogue	Meowth		
+1122	0	narration			
+1122	1	dialogue	Rotom Pokédex		
+1122	30	narration			
+1122	34	narration			
+1122	49	narration			
+1123	1	dialogue	GAME FREAK	male	adult
+1123	3	dialogue	GAME FREAK	male	adult
+1123	5	dialogue	GAME FREAK	male	adult
+1123	6	dialogue	GAME FREAK	male	adult
+1123	7	dialogue	GAME FREAK	male	adult
+1123	9	dialogue	GAME FREAK	male	adult
+1123	19	dialogue	GAME FREAK	male	adult
